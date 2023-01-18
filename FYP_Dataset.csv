@@ -1,0 +1,1317 @@
+Year ,Month ,RATED KW,VOLTS ,RATED AMP,TESTING AMP,TEMPERATURE,HUMIDITY ,Fault 
+2016,May,1.1,206,2.7,1.1,10.31,5.28,Bearing Damage
+2016,May,0.55,320,1.6,1.4,3.62,1.86,Phase Missing
+2016,May,0.4,265,3,1.2,12.73,6.52,Bearing Damage
+2016,May,,373,,,0.00,0.00,Over load
+2016,May,0.12,243,0.8,0.3,0.91,0.46,Bush Jam
+2016,May,0.12,238,0.8,0.3,0.91,0.46,Bush Jam
+2016,May,1.1,214,2.13,1.5,6.42,3.29,Over load
+2016,May,,228,,,0.00,0.00,Over load
+2016,May,1.1,227,2.69,1.2,10.23,5.24,Water Penetre
+2016,May,55,275,10.32,24,150.62,77.18,Insulation Weak
+2016,May,0.4,361,1,0.6,1.41,0.72,Phase Missing
+2016,June,0.4,204,3,1,12.73,6.52,Over load
+2016,June,1.75,203,3.6,1.9,18.33,9.39,Water Penetrate 
+2016,June,0.55,367,1.52,0.9,3.27,1.67,Water Penetrate 
+2016,June,0.03,255,0.13,0.1,0.02,0.01,Insulation Weak
+2016,June,0.06,217,0.27,0.09,0.10,0.05,Bearing Damage
+2016,June,0.12,245,0.54,0.48,0.41,0.21,Bush Jam
+2016,June,0.12,368,0.56,0.35,0.44,0.23,Insulation Weak
+2016,June,,247,,3.3,0.00,0.00,Over load
+2016,June,1.75,218,3.6,1.9,18.33,9.39,Water Penetrate 
+2016,June,0.06,275,0.27,0.11,0.10,0.05,Insulation Weak
+2016,June,0.06,343,0.27,0.11,0.10,0.05,Water Penetrate 
+2016,June,0.06,239,0.27,0.11,0.10,0.05,Insulation Weak
+2016,June,0.75,339,4,2,22.63,11.60,Over load
+2016,June,0.03,294,0.13,0.11,0.02,0.01,Insulation Weak
+2016,July,0.75,325,5,3.5,35.36,18.12,Over load
+2016,July,0.15,269,0.68,0.4,0.65,0.34,Over load
+2016,July,0.55,365,1.6,0.9,3.62,1.86,Phase Missing
+2016,July,0.55,306,1.6,0.9,3.62,1.86,Phase Missing
+2016,July,1.13,274,5.1,2.04,36.78,18.85,Water Penetrate 
+2016,July,0.06,273,0.27,0.11,0.10,0.05,Insulation Weak
+2016,July,0.25,349,2,1,5.66,2.90,Over load
+2016,July,0.037,335,0.56,0.3,0.44,0.23,Insulation Weak
+2016,July,0.08,360,0.36,0.21,0.18,0.09,Water Penetrate 
+2016,July,0.75,351,2.1,1.7,6.24,3.20,Over load
+2016,July,0.15,331,0.68,0.4,0.65,0.34,Insulation Weak
+2016,July,0.15,329,0.68,0.4,0.65,0.34,Over load
+2016,July,3,396,6.2,3.5,54.36,27.86,Water Penetrate 
+2016,July,0.15,223,0.68,0.4,0.65,0.34,Over load
+2016,July,0.06,381,0.27,0.11,0.10,0.05,Insulation Weak
+2016,July,2.2,294,4.6,2.6,29.92,15.34,Over load
+2016,July,,321,,0.4,0.00,0.00,Water Penetrate 
+2016,August,3,394,6.2,3.5,54.36,27.86,Water Penetrate 
+2016,August,0.55,392,1.5,1.3,3.18,1.63,Phase Missing
+2016,August,0.55,316,1.5,1.1,3.18,1.63,Phase Missing
+2016,August,0.08,221,0.36,0.2,0.18,0.09,Water Penetrate 
+2016,August,0.2,394,0.64,0.31,0.58,0.30,Over load
+2016,August,0.08,381,0.36,0.26,0.18,0.09,Water Penetrate 
+2016,August,0.08,220,0.36,0.29,0.18,0.09,Water Penetrate 
+2016,August,0.5,354,6,3,50.91,26.09,Over load
+2016,August,0.12,205,0.8,0.31,0.91,0.46,Insulation Weak
+2016,August,4,337,7.8,4.6,86.04,44.09,Phase Missing
+2016,August,0.5,238,3,1.7,12.73,6.52,Water Penetrate 
+2016,August,,214,,0.8,0.00,0.00,Over load
+2016,August,0.08,237,0.36,0.29,0.18,0.09,Over load
+2016,August,0.06,339,0.27,0.15,0.10,0.05,Over load
+2016,August,1.5,278,12,3,203.65,104.36,Water Penetrate 
+2016,August,,352,,0.3,0.00,0.00,Over load
+2016,August,2.2,374,5.5,3.6,42.78,21.92,Over load
+2016,August,3,365,6.8,5,65.39,33.51,Bearing Damage
+2016,August,0.12,351,0.8,0.39,0.91,0.46,Insulation Weak
+2016,August,0.4,289,3,1.2,12.73,6.52,Bearing Damage
+2016,August,0.06,377,0.27,0.09,0.10,0.05,Bearing Damage
+2016,August,0.5,282,3.5,1.3,17.32,8.88,Bearing Damage
+2016,September,0.12,274,0.8,0.39,0.91,0.46,Insulation Weak
+2016,September,0.06,360,0.27,0.09,0.10,0.05,Bush Jam
+2016,September,0.06,332,0.27,0.09,0.10,0.05,Insulation Weak
+2016,September,55,391,103,24,15003.39,7688.57,Phase Missing
+2016,September,,395,,2.1,0.00,0.00,Water Penetrate 
+2016,September,0.06,260,0.27,0.09,0.10,0.05,Bearing Damage
+2016,September,,295,,1.3,0.00,0.00,Water Penetrate 
+2016,September,1.1,366,2.7,1.8,10.31,5.28,Bearing Damage
+2016,September,0.9,220,0.61,0.3,0.53,0.27,Insulation Weak
+2016,September,0.5,226,3,2,12.73,6.52,Water Penetrate 
+2016,September,1.5,307,3.8,2.5,20.42,10.46,Over load
+2016,September,0.06,340,0.27,0.09,0.10,0.05,Insulation Weak
+2016,September,,246,,0.3,0.00,0.00,Over load
+2016,October,0.75,384,5,3,35.36,18.12,Water Penetrate 
+2016,October,0.06,294,0.27,0.09,0.10,0.05,Insulation Weak
+2016,October,1.1,256,2.75,1.6,10.69,5.48,Phase Missing
+2016,October,0.55,209,1.6,1.2,3.62,1.86,Phase Missing
+2016,October,0.55,258,1.6,1.3,3.62,1.86,Phase Missing
+2016,October,0.75,358,7,4,69.30,35.51,Water Penetrate 
+2016,October,0.4,273,3,0.9,12.73,6.52,Over load
+2016,October,0.75,263,5,2.8,35.36,18.12,Over load
+2016,October,3,308,6.5,3.1,59.75,30.62,Bearing Damage
+2016,October,3,306,6.5,3.1,59.75,30.62,Bearing Damage
+2016,October,0.08,258,0.36,0.21,0.18,0.09,Insulation Weak
+2016,October,0.18,256,0.7,0.5,0.69,0.36,Over load
+2016,October,0.08,395,0.36,0.21,0.18,0.09,Insulation Weak
+2016,October,0.4,235,3,0.9,12.73,6.52,Over load
+2016,October,,344,,0.7,0.00,0.00,Over load
+2016,October,0.06,360,0.27,0.09,0.10,0.05,Insulation Weak
+2016,October,3,267,6.5,3.2,59.75,30.62,Bearing Damage
+2016,October,0.75,302,7,4,69.30,35.51,Bearing Damage
+2016,October,1.75,320,3,1,12.73,6.52,Over load
+2016,October,0.55,252,1.6,1.6,3.62,1.86,Phase Missing
+2016,October,0.06,313,0.27,0.09,0.10,0.05,Bearing Damage
+2016,October,0.08,210,0.36,0.21,0.18,0.09,Insulation Weak
+2016,November,0.045,263,0.64,0.21,0.58,0.30,Insulation Weak
+2016,November,0.55,269,1.6,1.6,3.62,1.86,Phase Missing
+2016,November,0.06,348,0.27,0.09,0.10,0.05,Bearing Damage
+2016,November,0.2,312,0.64,0.27,0.58,0.30,Over load
+2016,November,0.08,271,0.36,0.21,0.18,0.09,Insulation Weak
+2016,November,0.06,346,0.27,0.15,0.10,0.05,Over load
+2016,November,0.12,341,0.8,0.39,0.91,0.46,Insulation Weak
+2016,November,0.08,228,0.36,0.21,0.18,0.09,Insulation Weak
+2016,November,3,385,6.5,3.2,59.75,30.62,Water Penetrate 
+2016,November,3,214,6.5,3.2,59.75,30.62,Water Penetrate 
+2016,November,0.2,251,0.64,0.29,0.58,0.30,Over load
+2016,November,0.08,218,0.36,0.21,0.18,0.09,Insulation Weak
+2016,November,7.5,232,14.1,6.4,281.16,144.08,Over load
+2016,November,2.2,292,4.5,2,28.64,14.68,Phase Missing
+2016,November,,333,,0.4,0.00,0.00,Over load
+2016,November,,255,,0.3,0.00,0.00,Over load
+2016,December,0.4,239,3,1.3,12.73,6.52,Over load
+2016,December,0.4,260,2.9,0.8,11.89,6.09,Over load
+2016,December,0.75,375,2.1,1.2,6.24,3.20,Over load
+2016,December,2.2,362,4.6,0.5,29.92,15.34,Over load
+2016,December,0.75,283,7.1,3.6,71.29,36.53,Insulation Weak
+2016,December,1.5,370,4.1,3.1,23.77,12.18,Water Penetrate 
+2016,December,,254,,0.6,0.00,0.00,Phase Missing
+2016,December,0.55,322,1.6,1.1,3.62,1.86,Phase Missing
+2016,December,1.1,400,2.8,2.4,11.09,5.68,Phase Missing
+2016,December,,241,,0.3,0.00,0.00,Over load
+2016,December,3,370,6.55,3.1,60.67,31.09,Water Penetrate 
+2016,December,0.37,268,2.2,0.8,6.84,3.51,Water Penetrate 
+2017,January,18.5,248,34.5,1.06,1683.27,862.60,Insulation Weak
+2017,January,2.2,265,5.5,2,42.78,21.92,Over Load
+2017,January,3,321,6.55,3.3,60.67,31.09,Water Penetrate 
+2017,January,3,389,6.55,3.3,60.67,31.09,Water Penetrate 
+2017,January,0.08,292,0.36,0.21,0.18,0.09,Insulation Weak
+2017,January,0.08,344,0.36,0.21,0.18,0.09,Insulation Weak
+2017,January,0.08,297,0.36,0.21,0.18,0.09,Insulation Weak
+2017,January,0.08,294,0.36,0.21,0.18,0.09,Bearing Jam
+2017,January,0.08,280,0.36,0.21,0.18,0.09,Insulation Weak
+2017,January,,314,,2.3,0.00,0.00,Water Penetrate 
+2017,January,0.08,400,0.36,0.21,0.18,0.09,Insulation Weak
+2017,January,0.08,225,0.36,0.21,0.18,0.09,Bearing Jam
+2017,January,0.08,267,0.36,0.21,0.18,0.09,Bearing Jam
+2017,January,1.5,227,3.4,1.3,16.35,8.38,Bearing Jam
+2017,January,3.7,322,8.1,3.6,92.79,47.55,Phase Missing
+2017,January,0.75,331,1.6,0.8,3.62,1.86,Over Load
+2017,January,0.6,321,0.27,1.6,0.10,0.05,Insulation Weak
+2017,January,0.55,369,1.6,1,3.62,1.86,Over Load
+2017,January,1.75,368,3.9,2.7,21.51,11.02,Water Penetrate 
+2017,January,0.12,381,0.56,0.35,0.44,0.23,Insulation Weak
+2017,January,4,207,8,3.7,90.51,46.38,Over Load
+2017,January,0.37,246,1.2,0.8,2.04,1.04,Water Penetrate 
+2017,February,0.55,344,1.55,0.8,3.40,1.74,Over Load
+2017,February,1.75,350,10,3.5,141.42,72.47,Water Penetrate 
+2017,February,3,346,6.55,3.1,60.67,31.09,Water Penetrate 
+2017,February,0.08,297,0.36,0.21,0.18,0.09,Insulation Weak
+2017,February,0.15,222,0.68,0.4,0.65,0.34,Over Load
+2017,February,,264,,2,0.00,0.00,Over Load
+2017,February,0.12,272,0.56,0.3,0.44,0.23,Insulation Weak
+2017,February,0.18,254,0.7,0.5,0.69,0.36,Insulation Weak
+2017,February,0.12,288,0.56,0.28,0.44,0.23,Over Load
+2017,February,0.15,225,0.68,0.39,0.65,0.34,Over Load
+2017,February,0.15,219,0.68,0.4,0.65,0.34,Over load
+2017,February,0.08,315,0.36,0.21,0.18,0.09,Insulation Weak
+2017,February,0.08,377,0.36,0.21,0.18,0.09,Over Load
+2017,February,0.4,397,3,1.2,12.73,6.52,Bearing Damage
+2017,February,2.2,289,4.6,2.4,29.92,15.34,Water Penetrate 
+2017,March,3,276,6.55,3.1,60.67,31.09,Water Penetrate 
+2017,March,0.08,352,0.36,0.21,0.18,0.09,Insulation Weak
+2017,March,0.08,291,0.36,0.21,0.18,0.09,Insulation Weak
+2017,March,0.75,277,2.1,0.7,6.24,3.20,ovre Load
+2017,March,0.2,319,0.6,0.2,0.51,0.26,ovre Load
+2017,March,,213,,0.7,0.00,0.00,Insulation Weak
+2017,March,3.5,320,5,3,35.36,18.12,ovre Load
+2017,March,,305,,0.1,0.00,0.00,Insulation Weak
+2017,March,0.55,208,1.6,1.6,3.62,1.86,Phase Missing
+2017,March,1.5,344,2.6,0.7,9.56,4.90,Water Penetrate 
+2017,March,0.12,343,0.56,0.12,0.44,0.23,Insulation Weak
+2017,March,3,295,6.55,3.1,60.67,31.09,Water Penetrate 
+2017,March,,370,,0.1,0.00,0.00,Insulation Weak
+2017,March,1.5,290,12,4,203.65,104.36,Bearing Damage
+2017,March,0.37,272,1.2,0.8,2.04,1.04,Water Penetrate 
+2017,March,1.1,364,2.8,2,11.09,5.68,Phase Missing
+2017,March,0.75,318,2.1,0.7,6.24,3.20,ovre Load
+2017,March,3,359,6.55,3.1,60.67,31.09,Water Penetrate 
+2017,April,0.08,337,0.36,0.21,0.18,0.09,Insulation Weak
+2017,April,7.5,260,14.4,5.5,293.25,150.28,Insulation Weak
+2017,April,0.4,204,3,1.2,12.73,6.52,Bearing Damage
+2017,April,0.9,322,0.61,0.2,0.53,0.27,Bearing Jam
+2017,April,0.12,318,0.56,0.28,0.44,0.23,Insulation Weak
+2017,April,0.08,337,0.36,0.21,0.18,0.09,Insulation Weak
+2017,April,0.5,234,3.4,0.6,16.35,8.38,over Load
+2017,April,0.12,386,0.56,0.28,0.44,0.23,Insulation Weak
+2017,April,0.3,367,3,0.45,12.73,6.52,over Load
+2017,April,0.08,277,0.36,0.21,0.18,0.09,Insulation Weak
+2017,April,,265,,0.8,0.00,0.00,Insulation Weak
+2017,April,0.06,210,0.27,0.04,0.10,0.05,Bearing Damage
+2017,April,,320,,0.1,0.00,0.00,Insulation Weak
+2017,April,,316,,1.3,0.00,0.00,over Load
+2017,April,0.06,345,0.27,0.02,0.10,0.05,Bearing Jam
+2017,April,,219,,1.3,0.00,0.00,over Load
+2017,May,3,348,6.55,3.1,60.67,31.09,Bearing Damage
+2017,May,7.5,371,14.4,5.5,293.25,150.28,over Load
+2017,May,0.06,235,0.27,0.04,0.10,0.05,Insulation Weak
+2017,May,0.2,284,0.64,0.27,0.58,0.30,Over load
+2017,May,1.1,302,2.8,2,11.09,5.68,Bearing Damage
+2017,May,3,265,6.55,3.1,60.67,31.09,Bearing Damage
+2017,May,0.06,355,0.27,0.04,0.10,0.05,Insulation Weak
+2017,May,0.06,322,0.27,0.04,0.10,0.05,Insulation Weak
+2017,May,0.12,273,0.54,0.2,0.41,0.21,Bearing Jam
+2017,May,,391,,0.4,0.00,0.00,Bush Jam
+2017,May,0.12,358,0.54,0.2,0.41,0.21,Insulation Weak
+2017,May,0.4,211,3,1.2,12.73,6.52,Bearing Damage
+2017,May,11,206,22.3,9.1,703.27,360.40,Bearing Damage
+2017,May,,256,,0.3,0.00,0.00,Insulation Weak
+2017,May,0.4,351,3,1.2,12.73,6.52,Bearing Damage
+2017,May,7.5,360,13.3,6.6,250.16,128.20,Insulation Weak
+2017,June,0.12,290,0.54,0.2,0.41,0.21,Insulation Weak
+2017,June,0.06,384,0.3,0.1,0.13,0.07,Insulation Weak
+2017,June,,337,,0.6,0.00,0.00,Insulation Weak
+2017,June,0.55,381,1.47,0.9,3.06,1.57,Bearing Damage
+2017,June,3,259,6.55,3.2,60.67,31.09,Insulation Weak
+2017,June,3,243,6.8,4.5,65.39,33.51,Bearing Damage
+2017,June,0.37,339,1.2,0.8,2.04,1.04,Water Penetrate 
+2017,June,11,272,22.3,9.5,703.27,360.40,Phase Missing
+2017,June,11,230,22.3,9.5,703.27,360.40,Phase Missing
+2017,June,3,248,6.55,3.1,60.67,31.09,Water Penetrate 
+2017,June,0.75,204,2.1,1.9,6.24,3.20,Bearing Damage
+2017,June,,200,,1.8,0.00,0.00,Water Penetrate 
+2017,June,4,382,8.36,4.8,98.84,50.65,Water Penetrate 
+2017,June,0.4,332,3,1.2,12.73,6.52,Over Load
+2017,June,0.06,394,0.3,0.1,0.13,0.07,Insulation Weak
+2017,July,0.18,293,0.7,0.2,0.69,0.36,Over Load
+2017,July,1.8,241,10.9,5.2,168.02,86.10,Over Load
+2017,July,,400,,1.2,0.00,0.00,Insulation Weak
+2017,July,,391,,2,0.00,0.00,Water Penetrate 
+2017,July,2.2,379,5.2,2.5,38.24,19.60,Over Load
+2017,July,1.5,287,10,3,141.42,72.47,Phase Missing
+2017,July,,240,,2.7,0.00,0.00,Phase Missing
+2017,July,,352,,3,0.00,0.00,Water Penetrate 
+2017,July,3,356,6.55,3.3,60.67,31.09,Water Penetrate 
+2017,July,3,226,6.55,3.2,60.67,31.09,Water Penetrate 
+2017,July,3,217,6.55,3.4,60.67,31.09,Water Penetrate 
+2017,July,1.5,285,12,7,203.65,104.36,Over Load
+2017,July,2.2,381,4.6,2.3,29.92,15.34,Water Penetrate 
+2017,July,0.15,330,0.68,0.4,0.65,0.34,Bearing Jam
+2017,July,3,286,6.55,3.3,60.67,31.09,Bearing Damage
+2017,July,0.12,233,0.56,0.28,0.44,0.23,Insulation Weak
+2017,July,0.12,286,0.56,0.28,0.44,0.23,Insulation Weak
+2017,July,0.9,227,0.61,0.2,0.53,0.27,Bearing Jam
+2017,July,0.75,289,4,1.7,22.63,11.60,Pump Jam
+2017,July,1.1,339,2.13,1.8,6.42,3.29,Over Load
+2017,July,0.75,324,2.1,1.1,6.24,3.20,Over Load
+2017,July,,377,,0.3,0.00,0.00,Over load
+2017,July,0.12,329,0.54,0.3,0.41,0.21,Bush Jam
+2017,August,1.8,224,10.9,5.2,168.02,86.10,Over Load
+2017,August,,207,,1.8,0.00,0.00,Phase Missing
+2017,August,3.7,390,8,2.5,90.51,46.38,Phase Missing
+2017,August,0.06,360,0.3,0.1,0.13,0.07,Insulation Weak
+2017,August,,320,,0.1,0.00,0.00,Insulation Weak
+2017,August,0.06,296,0.3,0.1,0.13,0.07,Insulation Weak
+2017,August,3,256,6.55,3.3,60.67,31.09,Water Penetrate 
+2017,August,0.75,258,6.5,4.9,59.75,30.62,Water Penetrate 
+2017,August,3,257,6.55,3.3,60.67,31.09,Bearing Damage
+2017,August,,347,,2.3,0.00,0.00,Water Penetrate 
+2017,August,3,303,6.55,3.1,60.67,31.09,Water Penetrate 
+2017,August,0.84,211,3.9,1.7,21.51,11.02,Water Penetrate 
+2017,August,0.08,397,0.36,0.21,0.18,0.09,Insulation Weak
+2017,August,0.26,386,3.6,1.6,18.33,9.39,Insulation Weak
+2017,August,,322,,0.1,0.00,0.00,Insulation Weak
+2017,August,,397,,0.8,0.00,0.00,Bearing Damage
+2017,August,0.37,291,1.05,0.8,1.56,0.80,Phase Missing
+2017,September,,269,,0.7,0.00,0.00,Insulation Weak
+2017,September,3.7,285,8,2.8,90.51,46.38,Phase Missing
+2017,September,3,375,5.1,3,36.78,18.85,Phase Missing
+2017,September,0.15,216,0.68,0.4,0.65,0.34,Over Load
+2017,September,2.2,244,5.5,4,42.78,21.92,Over Load
+2017,September,0.15,222,0.68,0.4,0.65,0.34,Over Load
+2017,September,0.08,201,0.36,0.21,0.18,0.09,Water Penetrater
+2017,September,0.08,290,0.36,0.23,0.18,0.09,Water Penetrater
+2017,September,0.08,370,0.36,0.21,0.18,0.09,Water Penetrater
+2017,September,0.08,310,0.36,0.2,0.18,0.09,Water Penetrater
+2017,September,0.08,370,0.36,0.25,0.18,0.09,Water Penetrater
+2017,September,0.08,249,0.36,0.23,0.18,0.09,Water Penetrater
+2017,September,45,279,80,26,9050.97,4638.22,Water Penetrater
+2017,September,1.83,243,4.2,2,24.95,12.78,Winding Short
+2017,September,4.4,335,8.9,1.3,112.02,57.41,Water Penetrater
+2017,October,0.4,329,3,1.2,12.73,6.52,Over Load
+2017,October,2.2,274,4.35,3,26.76,13.71,Over Load
+2017,October,,202,,4,0.00,0.00,Water penetrater
+2017,October,1.1,205,2.69,1.2,10.23,5.24,Water penetrater
+2017,October,2.2,255,4.35,1.7,26.76,13.71,Over Load
+2017,October,0.08,273,0.36,0.21,0.18,0.09,Water Penetrater
+2017,October,2.2,247,4.35,1.7,26.76,13.71,Over Load
+2017,October,0.08,345,0.36,0.23,0.18,0.09,Bearing Jam
+2017,October,0.12,264,0.56,0.28,0.44,0.23,Insulation Weak
+2017,October,0.12,350,0.56,0.21,0.44,0.23,Winding short
+2017,October,,336,,1.8,0.00,0.00,Water penetrater
+2017,October,1.75,299,3.6,1.9,18.33,9.39,Water penetrater
+2017,October,2.2,298,4.35,1.7,26.76,13.71,Over Load
+2017,October,,304,,2.5,0.00,0.00,Water penetrater
+2017,October,0.55,392,1.52,1.4,3.27,1.67,Bearing Damage
+2017,October,0.9,343,0.61,0.2,0.53,0.27,Bearing Jam
+2017,October,0.08,341,0.36,0.21,0.18,0.09,Water Penetrater
+2017,October,1.83,313,4.2,1.8,24.95,12.78,Winding short
+2017,October,0.08,380,0.36,0.21,0.18,0.09,Water Penetrater
+2017,October,2.2,353,5.5,3.5,42.78,21.92,Over Load
+2017,October,,288,,1.2,0.00,0.00,Over Load
+2017,November,0.4,261,3,1.2,12.73,6.52,Over Load
+2017,November,0.08,206,0.36,0.21,0.18,0.09,Bearing Jam
+2017,November,0.08,296,0.36,0.23,0.18,0.09,Bearing Jam
+2017,November,2.2,338,7.2,1.6,73.31,37.57,water penetrater
+2017,November,3,359,6.55,3.3,60.67,31.09,Water Penetrate 
+2017,November,0.08,394,0.36,0.2,0.18,0.09,Bearing Jam
+2017,November,0.12,284,0.56,0.28,0.44,0.23,Insulation Weak
+2017,November,,280,,2.5,0.00,0.00,Water penetrater
+2017,November,,205,,0.8,0.00,0.00,Bearing Damage
+2017,November,0.08,246,0.36,0.22,0.18,0.09,Bearing Jam
+2017,November,3,210,6.55,3.3,60.67,31.09,Water Penetrate 
+2017,November,,278,,1.9,0.00,0.00,Water Penetrate 
+2017,November,0.08,292,0.36,0.19,0.18,0.09,Insulation Weak
+2017,November,0.15,387,0.68,0.39,0.65,0.34,Bearing Jam
+2017,November,0.08,330,0.36,0.25,0.18,0.09,Insulation Weak
+2017,November,3,355,6.55,3.3,60.67,31.09,Bearing Damage
+2017,November,0.12,238,0.54,0.3,0.41,0.21,Bush Jam
+2017,November,0.9,261,0.61,0.2,0.53,0.27,Insulation Weak
+2017,November,0.08,254,0.36,0.2,0.18,0.09,Bearing Jam
+2017,November,3,309,6.55,3.2,60.67,31.09,Bearing Damage
+2017,December,,292,,0.1,0.00,0.00,Winding Short
+2017,December,45,335,81,27,9278.66,4754.90,Water Penetrater
+2017,December,0.75,234,2.1,1.5,6.24,3.20,Bearing Jam
+2017,December,0.18,400,1,0.5,1.41,0.72,Bush Jam
+2017,December,5.5,206,10.8,5,164.95,84.53,Phase Missing
+2017,December,0.9,270,0.61,0.2,0.53,0.27,Insulation Weak
+2017,December,0.4,307,3,1.2,12.73,6.52,Over Load
+2017,December,0.25,201,0.87,0.7,1.07,0.55,Water Penetrater
+2017,December,0.25,373,0.87,0.7,1.07,0.55,Water Penetrater
+2017,December,0.15,348,0.68,0.4,0.65,0.34,Over Load
+2017,December,3,239,6.8,2.5,65.39,33.51,Water Penetrater
+2017,December,3,245,6.47,3.9,59.20,30.34,Winding Short
+2017,December,3,270,6.47,4,59.20,30.34,Winding Short
+2018,January,0.55,217,1.3,0.9,2.39,1.22,Winding Short
+2018,January,9,363,18.2,10.2,468.44,240.06,Water Penetrater
+2018,January,9.2,225,19,7.6,510.53,261.62,Water Penetrater
+2018,January,0.12,328,0.54,0.2,0.41,0.21,Insulation Weak
+2018,January,0.06,389,0.3,0.1,0.13,0.07,Over load
+2018,January,1.1,233,2.7,1.3,10.31,5.28,Bearing Damage
+2018,January,0.08,384,0.36,0.27,0.18,0.09,Insulation Weak
+2018,January,2.2,329,4.35,2.2,26.76,13.71,Water Penetrater
+2018,January,0.08,321,0.36,0.25,0.18,0.09,Bearing Jam
+2018,January,,284,,3,0.00,0.00,Winding Short
+2018,January,0.08,277,0.36,0.2,0.18,0.09,Winding Short
+2018,January,0.08,372,0.36,0.21,0.18,0.09,Insulation Weak
+2018,January,0.08,216,0.36,0.21,0.18,0.09,Bearing Jam
+2018,January,1.1,231,2.13,1.7,6.42,3.29,Over load
+2018,January,0.08,345,0.36,0.21,0.18,0.09,Bearing Jam
+2018,January,3,370,6.5,3.2,59.75,30.62,Water Penetrater
+2018,January,1.75,324,3.4,2.2,16.35,8.38,Winding Short
+2018,February,0.75,338,4,1.5,22.63,11.60,Water Penetrater
+2018,February,0.75,305,2.1,1.9,6.24,3.20,Bearing Damage
+2018,February,,350,,0.1,0.00,0.00,Insulation Weak
+2018,February,0.373,370,2,0.9,5.66,2.90,Over load
+2018,February,0.75,340,4,1.5,22.63,11.60,Water Penetrater
+2018,February,1.5,361,3.65,1.6,18.84,9.66,Bearing Damage
+2018,February,0.15,363,0.68,3.4,0.65,0.34,Bearing Jam
+2018,February,0.12,397,0.54,0.3,0.41,0.21,Bush Jam
+2018,February,0.55,254,1.53,0.8,3.31,1.70,Water Penetrater
+2018,March,0.45,214,1.5,0.9,3.18,1.63,Phase Missing
+2018,March,1.1,385,2.13,1.7,6.42,3.29,Over load
+2018,March,0.75,224,5.5,2.5,42.78,21.92,Over load
+2018,March,0.15,229,0.68,0.39,0.65,0.34,Bearing Jam
+2018,March,2.2,352,4.6,2.2,29.92,15.34,Water Penetrater
+2018,March,0.08,332,0.36,0.21,0.18,0.09,Insulation Weak
+2018,March,0.15,233,0.68,0.39,0.65,0.34,Insulation Weak
+2018,March,3,323,6.5,3.2,59.75,30.62,Water Penetrater
+2018,March,0.75,369,5.5,2.5,42.78,21.92,Over load
+2018,March,3,351,6.5,3.2,59.75,30.62,Water Penetrater
+2018,March,0.4,353,3,1.2,12.73,6.52,Over Load
+2018,March,1.1,222,2.7,1.7,10.31,5.28,Over load
+2018,March,,279,,0.1,0.00,0.00,Insulation Weak
+2018,March,,236,,,0.00,0.00,Winding Burst
+2018,March,,276,,,0.00,0.00,Winding Burst
+2018,March,,216,,,0.00,0.00,Winding Burst
+2018,March,2.2,212,4.6,2.3,29.92,15.34,Winding Burst
+2018,March,0.06,293,0.3,0.1,0.13,0.07,Insulation Weak
+2018,March,1.1,316,2.7,1.5,10.31,5.28,Over load
+2018,March,0.08,255,0.36,0.21,0.18,0.09,Over load
+2018,April,0.12,384,0.56,0.28,0.44,0.23,Insulation Weak
+2018,April,1.5,337,3.3,1.9,15.40,7.89,Phase Missing
+2018,April,0.75,354,1.97,0.9,5.49,2.81,Over load
+2018,April,0.06,379,0.27,0.1,0.10,0.05,Over load
+2018,April,7.5,354,15.6,7.6,344.16,176.37,Insulation Weak
+2018,April,0.4,356,1.3,0.8,2.39,1.22,Insulation Weak
+2018,April,1.7,262,3.6,1.7,18.33,9.39,Water Penetrater
+2018,April,1.1,207,2.7,2.2,10.31,5.28,Over load
+2018,April,0.12,380,0.56,0.28,0.44,0.23,Insulation Weak
+2018,April,0.9,286,0.61,0.2,0.53,0.27,Bearing Jam
+2018,May,0.37,334,1,0.4,1.41,0.72,Bearing Damage
+2018,May,3,315,6.5,3.3,59.75,30.62,Water Penetrater
+2018,May,,331,,,0.00,0.00,Jam
+2018,May,3,273,6.5,1.8,59.75,30.62,Water Penetrater
+2018,May,0.12,377,0.54,0.28,0.41,0.21,Bearing Jam
+2018,May,0.12,264,0.54,0.3,0.41,0.21,Bearing Jam
+2018,May,,302,,0.1,0.00,0.00,Insulation Weak
+2018,May,1.1,246,2.13,1.7,6.42,3.29,Over load
+2018,May,,291,,0.8,0.00,0.00,Over load
+2018,May,7.5,395,14.8,3.4,309.77,158.74,Over load
+2018,June,5.5,400,12.6,4,224.52,115.06,Phase Missing
+2018,June,0.75,328,7,3,69.30,35.51,Water Penetrater
+2018,June,3,307,6.2,2,54.36,27.86,Water Penetrater
+2018,June,0.75,291,4.9,2.8,33.96,17.40,over Load
+2018,June,,273,,0.2,0.00,0.00,over Load
+2018,June,0.37,225,3,1.7,12.73,6.52,over Load
+2018,July,5.5,298,11.2,5,177.40,90.91,Shaft Damage
+2018,July,0.05,201,0.49,0.2,0.34,0.17,Over Load
+2018,July,0.08,306,0.36,0.21,0.18,0.09,Over Load
+2018,July,0.08,370,0.36,0.22,0.18,0.09,Over Load
+2018,July,,329,,2,0.00,0.00,Water Penetration
+2018,July,0.08,389,0.36,0.25,0.18,0.09,Over Load
+2018,July,0.08,329,0.36,0.25,0.18,0.09,Over Load
+2018,July,0.55,376,1.6,0.5,3.62,1.86,Over Load
+2018,July,0.75,274,1.97,0.8,5.49,2.81,Over Load
+2018,July,0.75,309,1.97,0.8,5.49,2.81,Over Load
+2018,July,3,311,6.5,1.9,59.75,30.62,Water Penetration
+2018,July,0.37,270,3,1.7,12.73,6.52,over Load
+2018,July,0.55,329,1.5,1.2,3.18,1.63,Over load
+2018,July,1.1,397,2.13,1.7,6.42,3.29,Cover Housing Damage
+2018,July,0.06,369,0.27,0.09,0.10,0.05,Bearing Damage
+2018,July,0.12,399,0.54,0.2,0.41,0.21,Over Load
+2018,July,0.12,324,0.54,0.3,0.41,0.21,Cover Housing Damage
+2018,July,55,348,103,7.26,15003.39,7688.57,Phase Missing
+2018,July,5,289,7.1,3,71.29,36.53,Bearing Damage
+2018,July,,343,,0.4,0.00,0.00,Over Load
+2018,July,,350,,0.1,0.00,0.00,Over Load
+2018,July,0.4,370,3,0.9,12.73,6.52,Over Load
+2018,August,0.08,322,0.36,0.21,0.18,0.09,Over Load
+2018,August,0.06,315,0.27,0.26,0.10,0.05,Bearing Damage
+2018,August,0.75,207,1.97,0.9,5.49,2.81,Over Load
+2018,August,0.06,348,0.27,0.19,0.10,0.05,Over Load
+2018,August,2.2,362,3.8,1.3,20.42,10.46,Phase Missing
+2018,August,0.08,235,0.36,0.22,0.18,0.09,Over Load
+2018,August,0.08,252,0.36,0.19,0.18,0.09,Over Load
+2018,August,0.08,215,0.36,0.22,0.18,0.09,Over Load
+2018,August,1.1,230,2.6,1.7,9.56,4.90,Over load
+2018,August,0.4,392,3,0.9,12.73,6.52,Over Load
+2018,August,0.4,233,3,0.9,12.73,6.52,Over Load
+2018,August,0.08,329,0.36,0.25,0.18,0.09,Over Load
+2018,August,0.9,371,0.61,0.2,0.53,0.27,Bearing Jam
+2018,August,0.9,279,0.61,0.2,0.53,0.27,Bearing Jam
+2018,August,,342,,1.3,0.00,0.00,Over Load
+2018,August,9,307,18.2,9.6,468.44,240.06,Water Penetration
+2018,September,0.06,296,0.27,0.26,0.10,0.05,Bearing Damage
+2018,September,,324,,0.1,0.00,0.00,Bearing Damage
+2018,September,2.2,201,4.6,1.6,29.92,15.34,Water Penetration
+2018,September,1.75,360,3,1.3,12.73,6.52,Over Load
+2018,September,0.9,262,0.61,0.2,0.53,0.27,Bearing Jam
+2018,September,3,336,6.8,2.6,65.39,33.51,Bearing Damage
+2018,September,0.9,369,0.61,0.2,0.53,0.27,Bearing Jam
+2018,September,0.08,370,0.36,0.19,0.18,0.09,Bearing Jam
+2018,September,2.2,208,4.6,2.1,29.92,15.34,Water Penetration
+2018,September,1.1,212,2.6,0.9,9.56,4.90,Over load
+2018,September,0.08,363,0.36,0.21,0.18,0.09,Over Load
+2018,September,0.75,304,1.9,0.8,5.11,2.62,Bearing Jam
+2018,September,0.08,245,0.36,2.7,0.18,0.09,Over Load
+2018,September,0.12,288,0.54,0.3,0.41,0.21,Over Load
+2018,September,0.12,243,0.54,0.38,0.41,0.21,Cover Housing Damage
+2018,September,,231,,0.1,0.00,0.00,Bush Jam
+2018,September,0.08,297,0.36,2.9,0.18,0.09,Over Load
+2018,September,3,225,6.8,2.4,65.39,33.51,Water Penetration
+2018,October,0.15,318,0.68,0.39,0.65,0.34,Bearing Jam
+2018,October,0.15,283,0.68,0.39,0.65,0.34,Bearing Jam
+2018,October,0.8,383,,0.4,0.00,0.00,Bush Jam
+2018,October,0.15,290,0.68,0.39,0.65,0.34,Bearing Jam
+2018,October,0.9,279,0.61,0.2,0.53,0.27,Bearing Jam
+2018,October,0.9,220,0.61,0.2,0.53,0.27,Bearing Jam
+2018,October,18.5,278,34.5,9,1683.27,862.60,Water Penetration
+2018,October,0.15,336,0.68,0.33,0.65,0.34,Bearing Jam
+2018,October,1.75,350,3.9,3,21.51,11.02,Water Penetration
+2018,October,0.15,235,0.68,0.33,0.65,0.34,Rotor Shaft Damage
+2018,October,,399,,1.2,0.00,0.00,Bearing Jam
+2018,October,4.4,212,8.3,2.3,97.43,49.93,Insulation Weak
+2018,October,0.12,314,0.54,0.3,0.41,0.21,Bush Jam
+2018,October,,366,,0.8,0.00,0.00,Bearing Jam
+2018,October,,201,,1.2,0.00,0.00,Bearing Damage
+2018,October,4,377,8.2,4.5,95.09,48.73,Bearing Jam
+2018,October,7.5,205,15,7,318.20,163.06,Bearing Damage
+2018,October,15,242,26.3,8,978.20,501.28,Water Penetration
+2018,November,0.75,363,5,3,35.36,18.12,Over Load
+2018,November,0.25,303,0.8,0.5,0.91,0.46,Bearing Damage
+2018,November,0.37,332,3.1,1.5,13.59,6.96,Over Load
+2018,November,0.08,234,0.36,0.31,0.18,0.09,Insulation Weak
+2018,November,3,229,6,3.3,50.91,26.09,Water Penetration
+2018,November,3.7,335,5.1,2.3,36.78,18.85,Over Load
+2018,November,0.08,230,0.36,0.31,0.18,0.09,Bearing Jam
+2018,November,3.7,399,7.5,2.3,79.55,40.77,Phase Missing
+2018,November,3,223,6.2,2.3,54.36,27.86,Bearing Damage
+2018,November,0.08,242,0.36,0.33,0.18,0.09,Insulation Weak
+2018,November,0.4,366,3,1.6,12.73,6.52,Over Load
+2018,November,0.08,357,0.36,0.33,0.18,0.09,Over Load
+2018,November,2.2,383,4.6,1.9,29.92,15.34,Over Load
+2018,November,0.08,278,0.36,0.31,0.18,0.09,Bearing Jam
+2018,November,1.75,347,3.5,1.9,17.32,8.88,Water Penetration
+2018,November,,299,,0.27,0.00,0.00,Bearing Jam
+2018,November,3,377,6.2,2.4,54.36,27.86,Bearing Damage
+2018,November,,250,,0.24,0.00,0.00,Insulation Weak
+2018,November,3,387,6.2,2.6,54.36,27.86,Over Load
+2018,December,11.6,331,28.4,1,1140.65,584.53,Over Load
+2018,December,0.08,330,0.36,0.3,0.18,0.09,Bearing Jam
+2018,December,0.08,205,0.36,0.3,0.18,0.09,Bearing Jam
+2018,December,,326,,0.28,0.00,0.00,Over Load
+2018,December,0.9,245,0.61,0.21,0.53,0.27,Bearing Jam
+2018,December,,324,,0.8,0.00,0.00,Bearing Jam
+2018,December,0.08,207,0.36,0.3,0.18,0.09,Bearing Jam
+2018,December,0.08,216,0.36,0.3,0.18,0.09,Insulation Weak
+2018,December,0.08,341,0.36,0.3,0.18,0.09,Bearing Jam
+2018,December,5.5,286,10.8,4,164.95,84.53,Insulation Weak
+2018,December,1.1,362,2.13,1.7,6.42,3.29,Over Load
+2018,December,,338,,,0.00,0.00,Insulation Weak
+2019,April ,0.12,397,0.54,0.3,0.41,0.21,Bush Jam
+2019,April ,0.9,309,0.61,0.21,0.53,0.27,Bearing Jam
+2019,April ,0.4,223,3,1.3,12.73,6.52,Bearing Jam
+2019,April ,0.9,345,0.61,0.2,0.53,0.27,Bearing Jam
+2019,April ,,226,,0.21,0.00,0.00,Over Load
+2019,April ,3,224,6.2,3.4,54.36,27.86,Water Penetration
+2019,April ,,398,,0.3,0.00,0.00,Over Load
+2019,April ,3,344,6.2,3.4,54.36,27.86,Water Penetration
+2019,April ,0.06,397,0.12,0.9,0.02,0.01,Insulation Weak
+2019,April ,0.08,256,0.36,0.34,0.18,0.09,Insulation Weak
+2019,April ,0.08,392,0.36,0.34,0.18,0.09,Bearing Jam
+2019,April ,0.12,254,0.54,0.41,0.41,0.21,Bush Jam
+2019,April ,15,241,29.4,14.4,1222.39,626.42,Water Penetration
+2019,April ,0.08,242,0.36,3.1,0.18,0.09,Insulation Weak
+2019,April ,1.1,394,2.13,1.7,6.42,3.29,Over Load
+2019,April ,0.12,391,0.54,0.43,0.41,0.21,Insulation Weak
+2019,April ,0.08,258,0.36,3.1,0.18,0.09,Insulation Weak
+2019,April ,0.08,225,0.36,3.4,0.18,0.09,Insulation Weak
+2019,April ,1.1,238,2.13,1.7,6.42,3.29,Over Load
+2019,April ,1.1,319,2.13,1.7,6.42,3.29,Over Load
+2019,April ,,366,,1.8,0.00,0.00,Phase Missing
+2019,April ,0.12,277,0.54,0.4,0.41,0.21,Insulation Weak
+2019,April ,1.1,320,2.13,1.8,6.42,3.29,Over Load
+2019,April ,3,364,6.2,3.5,54.36,27.86,Water Penetration
+2019,April ,0.37,336,0.96,0.7,1.30,0.67,Insulation Weak
+2019,April ,0.12,381,0.54,,0.41,0.21,Insulation Weak
+2019,April ,1.1,259,2.13,1.7,6.42,3.29,Over Load
+2019,April ,0.06,397,0.12,0.9,0.02,0.01,Insulation Weak
+2019,April ,0.4,282,3,1,12.73,6.52,Over Load
+2019,April ,0.4,285,3,,12.73,6.52,Insulation Weak
+2019,April ,0.9,230,0.61,0.2,0.53,0.27,Over Load
+2019,May ,0.55,377,1.47,1,3.06,1.57,Over Load
+2019,May ,0.9,391,0.61,0.2,0.53,0.27,Over Load
+2019,May ,2.2,351,4.6,2,29.92,15.34,Water Penetration
+2019,May ,0.08,318,0.36,0.34,0.18,0.09,Insulation Weak
+2019,May ,0.4,302,3,,12.73,6.52,Insulation Weak
+2019,May ,0.08,372,0.36,0.32,0.18,0.09,Insulation Weak
+2019,May ,0.06,315,0.3,0.4,0.13,0.07,Insulation Weak
+2019,May ,45,234,79.4,10,8915.71,4568.91,Phase Missing
+2019,May ,0.55,325,4,1.6,22.63,11.60,Over Load
+2019,May ,0.12,319,0.54,0.47,0.41,0.21,Bearing Jam
+2019,May ,0.55,398,2.6,1.6,9.56,4.90,Over Load
+2019,May ,,309,,4,0.00,0.00,Phase Missing
+2019,May ,0.08,346,0.34,0.34,0.16,0.08,Insulation Weak
+2019,May ,0.57,203,4,2.4,22.63,11.60,Over Load
+2019,May ,0.04,388,0.3,0.14,0.13,0.07,Insulation Weak
+2019,May ,2.2,308,4.6,1.7,29.92,15.34,Water Penetration
+2019,May ,0.55,252,2.6,1.6,9.56,4.90,Over Load
+2019,May ,,233,,3,0.00,0.00,Insulation Weak
+2019,June ,1.75,230,3.6,2,18.33,9.39,Water Penetration
+2019,June ,0.55,208,1.6,1.1,3.62,1.86,Water Penetration
+2019,June ,0.57,382,4,2.8,22.63,11.60,Water Penetration
+2019,June ,30,324,57,17.2,4594.78,2354.62,Over Load
+2019,June ,0.37,333,1.2,0.8,2.04,1.04,Over Load
+2019,June ,0.75,252,5,3,35.36,18.12,Over Load
+2019,June ,,297,,0.12,0.00,0.00,Insulation Weak
+2019,June ,0.55,314,1.6,1,3.62,1.86,Over Load
+2019,June ,0.55,377,1.6,1,3.62,1.86,Over Load
+2019,June ,2.2,254,4.6,1.9,29.92,15.34,Water Penetration
+2019,June ,,314,,1.7,0.00,0.00,Water Penetration
+2019,June ,,269,,,0.00,0.00,Insulation Weak
+2019,June ,1.1,378,2.4,1.8,8.15,4.17,Over Load
+2019,June ,,216,,1.7,0.00,0.00,Water Penetration
+2019,June ,,292,,0.8,0.00,0.00,Over Load
+2019,June ,0.75,255,2.4,0.6,8.15,4.17,Over Load
+2019,June ,0.37,344,1.2,0.6,2.04,1.04,Over Load
+2019,June ,0.37,209,3,1.5,12.73,6.52,Over Load
+2019,June ,,384,,0.12,0.00,0.00,Insulation Weak
+2019,June ,0.75,313,5,3.2,35.36,18.12,Over Load
+2019,June ,0.75,267,2.4,0.6,8.15,4.17,Over Load
+2019,June ,,234,,0.7,0.00,0.00,Over Load
+2019,June ,,292,,,0.00,0.00,Insulation Weak
+2019,June ,3.7,221,7.6,3,81.68,41.86,Phase Missing
+2019,June ,132,240,2950,,12307193.53,6306889.21,Bearing Damage
+2019,June ,,335,,,0.00,0.00,Insulation Weak
+2019,June ,,348,,1.7,0.00,0.00,Water Penetration
+2019,July ,0.18,331,0.25,0.15,0.09,0.05,Over Load
+2019,July ,0.08,305,0.34,0.28,0.16,0.08,Insulation Weak
+2019,July ,2.2,231,4.6,2.4,29.92,15.34,Phase Missing 
+2019,July ,,399,,,0.00,0.00,Over Load
+2019,July ,,386,,0.12,0.00,0.00,Insulation Weak
+2019,July ,2.2,282,4.51,2.4,28.77,14.74,Over Load
+2019,July ,0.55,330,1.6,0.8,3.62,1.86,Over Load
+2019,July ,0.12,323,0.45,0.4,0.29,0.15,Insulation Weak
+2019,July ,23,293,5.61,1.7,44.51,22.81,Insulation Weak
+2019,July ,0.12,240,0.45,0.37,0.29,0.15,Bush Jam
+2019,July ,0.75,206,2.4,0.7,8.15,4.17,Over Load
+2019,July ,0.9,385,0.61,0.2,0.53,0.27,Over Load
+2019,July ,1.1,371,2.8,1.7,11.09,5.68,Water Penetration
+2019,July ,0.12,238,0.45,0.39,0.29,0.15,Bush Jam
+2019,July ,0.25,221,0.5,0.3,0.35,0.18,Over Load
+2019,August ,0.4,364,3,1.8,12.73,6.52,Over Load
+2019,August ,0.12,329,0.54,0.4,0.41,0.21,Insulation Weak
+2019,August ,0.37,345,2.9,1,11.89,6.09,Over Load
+2019,August ,0.37,283,1.25,0.8,2.21,1.13,Bearing Damage
+2019,August ,0.55,324,1.12,,1.77,0.91,Phase Missing
+2019,August ,0.55,304,1.12,0.9,1.77,0.91,Water Penetration
+2019,August ,0.5,320,3,2,12.73,6.52,Over Load
+2019,August ,0.4,264,3,1.5,12.73,6.52,Over Load
+2019,August ,0.5,390,3,1,12.73,6.52,Bearing Jam
+2019,August ,0.08,390,0.34,0.29,0.16,0.08,Bearing Jam
+2019,August ,5,225,,2,0.00,0.00,Rotor wire Damage
+2019,August ,0.08,365,0.34,0.29,0.16,0.08,Insulation Weak
+2019,August ,0.08,264,0.34,0.27,0.16,0.08,Insulation Weak
+2019,August ,1.5,215,3.15,2.4,14.03,7.19,Bearing Damage
+2019,August ,0.08,346,0.34,0.28,0.16,0.08,Insulation Weak
+2019,August ,1.1,371,2.13,1.7,6.42,3.29,Over Load
+2019,August ,5.5,311,10,,141.42,72.47,Bearing Damage
+2019,August ,0.08,365,0.34,0.29,0.16,0.08,Insulation Weak
+2019,August ,0.12,386,0.54,0.3,0.41,0.21,Bush Jam
+2019,August ,1.75,231,3.5,2.1,17.32,8.88,Bearing Jam
+2019,August ,0.75,387,5,2.3,35.36,18.12,Insulation Weak
+2019,August ,0.08,225,0.34,0.26,0.16,0.08,Insulation Weak
+2019,August ,0.55,373,1.12,0.9,1.77,0.91,Water Penetration
+2019,August ,,205,,0.12,0.00,0.00,Insulation Weak
+2019,August ,,258,,,0.00,0.00,Water Penetration
+2019,August ,0.08,278,0.34,0.3,0.16,0.08,Insulation Weak
+2019,August ,0.08,374,0.34,0.28,0.16,0.08,Insulation Weak
+2019,August ,,203,,,0.00,0.00,Over Load
+2019,August ,4,223,9.2,,119.70,61.34,Water Penetration
+2019,August ,,352,,0.3,0.00,0.00,Over Load
+2019,September ,0.25,237,1.1,0.6,1.71,0.88,Over Load
+2019,September ,1.5,323,3.92,,21.73,11.14,Bearing Damage
+2019,September ,2.2,334,4.6,2,29.92,15.34,Over Load
+2019,September ,23,302,5.61,1.7,44.51,22.81,Insulation Weak
+2019,September ,0.08,379,0.34,0.29,0.16,0.08,Insulation Weak
+2019,September ,0.12,320,0.54,0.4,0.41,0.21,Water Penetration
+2019,September ,0.06,396,0.12,0.1,0.02,0.01,Insulation Weak
+2019,September ,0.75,228,5,3,35.36,18.12,Water Penetration
+2019,September ,1.5,259,3.4,2.5,16.35,8.38,Phase Missing
+2019,September ,1.5,214,3.4,2.4,16.35,8.38,Over Load
+2019,September ,0.12,317,0.54,0.4,0.41,0.21,Bush Jam
+2019,September ,0.5,368,1.1,0.6,1.71,0.88,Oil Penetration
+2019,September ,11,215,18.5,6.2,484.01,248.04,Rotor Shaft Damage
+2019,September ,11,227,18.5,8,484.01,248.04,Rotor Shaft Damage
+2019,September ,0.12,204,0.54,3.8,0.41,0.21,Bush Jam
+2019,September ,,286,,0.1,0.00,0.00,Insulation Weak
+2019,September ,1.75,357,3.4,1.8,16.35,8.38,Water Penetration
+2019,September ,0.37,358,1.05,0.8,1.56,0.80,Over Load
+2019,September ,1.75,247,3.4,1.8,16.35,8.38,Water Penetration
+2019,September ,2.2,245,4.6,1.8,29.92,15.34,Water Penetration
+2019,September ,0.08,263,0.34,0.29,0.16,0.08,Insulation Weak
+2019,September ,5.5,216,11.3,3,180.58,92.54,Over Load
+2019,September ,,364,,,0.00,0.00,Over Load
+2019,September ,0.15,254,0.64,0.4,0.58,0.30,Insulation Weak
+2019,September ,0.06,342,0.12,0.1,0.02,0.01,Insulation Weak
+2019,September ,,278,,0.25,0.00,0.00,Over Load
+2019,September ,1.75,340,3.4,1.8,16.35,8.38,Over Load
+2019,September ,0.06,351,0.12,0.14,0.02,0.01,Insulation Weak
+2019,September ,2.2,241,4.6,2.3,29.92,15.34,Water Penetration
+2019,September ,0.06,227,0.12,0.1,0.02,0.01,Insulation Weak
+2019,September ,,206,,0.5,0.00,0.00,Water Penetration
+2019,September ,11,311,22.3,,703.27,360.40,Bearing Damage
+2019,October ,,217,,0.1,0.00,0.00,Water Penetration
+2019,October ,0.12,222,0.54,0.4,0.41,0.21,Insulation Weak
+2019,October ,0.55,215,4,1.3,22.63,11.60,Over Load
+2019,October ,0.12,231,0.54,0.4,0.41,0.21,Insulation Weak
+2019,October ,0.12,398,0.54,0.4,0.41,0.21,Insulation Weak
+2019,October ,,314,,0.1,0.00,0.00,Water Penetration
+2019,October ,0.12,382,0.54,0.4,0.41,0.21,Insulation Weak
+2019,October ,0.33,325,2.8,1.5,11.09,5.68,Over Load
+2019,October ,0.08,275,0.34,0.31,0.16,0.08,Insulation Weak
+2019,October ,0.08,368,0.34,0.31,0.16,0.08,Insulation Weak
+2019,October ,7.5,372,14.6,8,301.45,154.48,Water Penetration
+2019,October ,,277,,0.2,0.00,0.00,Over Load
+2019,October ,,305,0.8,0.6,0.91,0.46,Bearing Jam
+2019,October ,1.3,216,2.8,2.2,11.09,5.68,Bearing Lock Damage
+2019,October ,2.2,393,4.6,3.6,29.92,15.34,Over Load
+2019,October ,,311,,2.1,0.00,0.00,Water Penetration
+2019,October ,1.5,361,3.2,1.3,14.48,7.42,Bearing Damage
+2019,October ,1.75,386,3.5,1.8,17.32,8.88,Water Penetration
+2019,October ,0.55,247,1.1,0.6,1.71,0.88,Water Penetration
+2019,October ,3,222,6.2,3,54.36,27.86,Water Penetration
+2019,October ,7.5,250,15.3,6.8,331.05,169.65,Water Penetration
+2019,October ,3,371,6.2,3,54.36,27.86,Water Penetration
+2019,October ,0.08,217,0.34,0.31,0.16,0.08,Water Penetration
+2019,October ,0.55,370,1.1,0.6,1.71,0.88,Water Penetration
+2019,October ,0.55,291,1.1,0.6,1.71,0.88,Water Penetration
+2019,October ,4,220,7.8,3.8,86.04,44.09,Water Penetration
+2019,October ,1.75,238,3.5,2,17.32,8.88,Water Penetration
+2019,October ,0.4,377,1.3,1,2.39,1.22,Over Load
+2019,October ,0.33,293,2.5,1.5,8.84,4.53,Over Load
+2019,October ,0.55,381,4,1.3,22.63,11.60,Over Load
+2019,October ,0.75,220,1.4,1.2,2.77,1.42,Over Load
+2019,October ,3,251,6.2,3,54.36,27.86,Water Penetration
+2019,October ,1.5,398,3.92,1.9,21.73,11.14,Over Load
+2019,October ,0.9,283,0.61,0.2,0.53,0.27,Over Load
+2019,October ,0.5,389,0.9,0.5,1.15,0.59,Over Load
+2019,November ,5.5,272,10.5,5,155.92,79.90,Over Load
+2019,November ,3.7,393,7.6,4.8,81.68,41.86,Bearing Damage
+2019,November ,0.37,241,1.2,0.8,2.04,1.04,Over Load
+2019,November ,0.75,259,2.8,2,11.09,5.68,phase Missing
+2019,November ,0.75,269,5,3,35.36,18.12,Over Load
+2019,November ,15,206,26.7,8.5,1008.18,516.65,Over Load
+2019,November ,7.5,348,15,,318.20,163.06,phase Missing
+2019,November ,7.5,328,15.4,,335.39,171.87,phase Missing
+2019,November ,,382,,0.9,0.00,0.00,Over Load
+2019,November ,2.2,250,4.8,3,32.58,16.70,Over Load
+2019,November ,3,295,6.8,5,65.39,33.51,Over Load
+2019,November ,3,363,6.4,3,57.93,29.68,Bearing Damage
+2019,November ,15,313,26.5,12,993.13,508.94,Over Load
+2019,November ,3.5,203,18.4,,478.80,245.36,Over Load
+2019,November ,0.2,239,1,0.4,1.41,0.72,Over Load
+2019,November ,0.6,333,0.3,0.12,0.13,0.07,Insulation Weak
+2019,November ,9,359,18,6,458.21,234.81,Bearing Damage
+2019,November ,0.8,300,3.4,,16.35,8.38,Insulation Weak
+2019,November ,0.75,331,7.4,6.5,77.44,39.69,Over Load
+2019,November ,1.5,254,3.8,2,20.42,10.46,Water Penetration
+2019,November ,3,331,6.2,3,54.36,27.86,Water Penetration
+2019,November ,3,394,6.2,3,54.36,27.86,Water Penetration
+2019,November ,0.3,227,3,1,12.73,6.52,Over Load
+2019,November ,7.5,334,15.4,,335.39,171.87,Over Load
+2019,November ,3,345,6.2,3,54.36,27.86,Water Penetration
+2019,December ,0.55,300,1.8,1.2,4.58,2.35,Water Penetration
+2019,December ,7.5,356,15.4,4,335.39,171.87,Over Load
+2019,December ,0.4,221,2.8,1.5,11.09,5.68,Over Load
+2019,December ,0.55,213,4,,22.63,11.60,Over Load
+2019,December ,0.55,268,1.8,1.2,4.58,2.35,Water Penetration
+2019,December ,0.55,249,1.8,1.3,4.58,2.35,Water Penetration
+2019,December ,0.08,208,0.34,0.3,0.16,0.08,Insulation Weak
+2019,December ,3,359,6.8,4.5,65.39,33.51,Water Penetration
+2019,December ,0.08,347,0.34,0.3,0.16,0.08,Insulation Weak
+2019,December ,0.06,353,0.39,0.9,0.22,0.11,Over Load
+2019,December ,,392,,0.2,0.00,0.00,Over Load
+2019,December ,,387,,0.66,0.00,0.00,Insulation Weak
+2019,December ,,386,,1.DC,0.00,0.00,Over Load
+2019,December ,,382,,1.DC,0.00,0.00,Over Load
+2019,December ,1.5,353,3.9,2.5,21.51,11.02,Over Load
+2019,December ,1.5,205,3.9,2.7,21.51,11.02,Over Load
+2019,December ,1.1,307,2.13,1.9,6.42,3.29,Over Load
+2019,December ,1.1,340,2.13,1.7,6.42,3.29,Over Load
+2019,December ,0.55,347,4,,22.63,11.60,Over Load
+2019,December ,,245,,0.3,0.00,0.00,Insulation Weak
+2019,December ,,269,,0.3,0.00,0.00,Insulation Weak
+2019,December ,0.5,240,3,1.3,12.73,6.52,Insulation Weak
+2019,December ,0.4,226,3,1.2,12.73,6.52,Insulation Weak
+2019,December ,2.2,345,5,3.5,35.36,18.12,Over Load
+2019,December ,3.7,285,6.7,,63.48,32.53,Bearing Damage
+2019,December ,5.5,305,10.5,6.5,155.92,79.90,Over Load
+2019,December ,0.37,203,1.2,0.9,2.04,1.04,Over Load
+2019,December ,0.75,317,2.1,1.5,6.24,3.20,Over Load
+2019,January ,0.08,261,0.36,0.3,0.18,0.09,Bearing Jam
+2019,January ,2.2,305,4.6,2.2,29.92,15.34,Water Penetration
+2019,January ,0.75,296,1.9,1.3,5.11,2.62,Phase Missing
+2019,January ,2.2,391,4.6,1.6,29.92,15.34,Water Penetration
+2019,January ,0.9,287,0.61,,0.53,0.27,Bearing Jam
+2019,January ,0.08,225,0.36,0.32,0.18,0.09,Bearing Jam
+2019,January ,0.4,300,1.3,0.8,2.39,1.22,Insulation Weak
+2019,January ,23,382,5.61,1.7,44.51,22.81,Insulation Weak
+2019,January ,0.4,262,3,1,12.73,6.52,Over Load
+2019,January ,0.12,208,0.56,0.4,0.44,0.23,Bearing Jam
+2019,January ,2.2,296,4.6,2.2,29.92,15.34,Bearing Damage
+2019,January ,0.12,296,0.56,0.4,0.44,0.23,Bearing Jam
+2019,January ,,318,,0.34,0.00,0.00,Bearing Jam
+2019,January ,,386,,0.2,0.00,0.00,Over Load
+2019,February ,,269,,0.4,0.00,0.00,Over Load
+2019,February ,1.1,397,2.13,1.7,6.42,3.29,Over Load
+2019,February ,1.1,329,2.13,1.7,6.42,3.29,Over Load
+2019,February ,0.06,284,0.3,0.12,0.13,0.07,Insulation Weak
+2019,February ,,314,,,0.00,0.00,Insulation Weak
+2019,February ,,224,,0.8,0.00,0.00,Water Penetration
+2019,February ,0.06,327,0.3,0.12,0.13,0.07,Insulation Weak
+2019,February ,,353,,2.3,0.00,0.00,Water Penetration
+2019,February ,0.55,326,1..47,0.9,#VALUE!,#VALUE!,Over Load
+2019,February ,0.37,222,1.82,0.7,4.68,2.40,Water Penetration
+2019,February ,15,399,30.4,,1306.96,669.76,Over Load
+2019,February ,,328,,,0.00,0.00,Insulation Weak
+2019,March ,3,200,6.2,3.2,54.36,27.86,Water Penetration
+2019,March ,1.1,345,2.13,1.7,6.42,3.29,Over Load
+2019,March ,0.06,216,0.3,0.26,0.13,0.07,Insulation Weak
+2019,March ,,308,,2,0.00,0.00,Phase Missing 
+2019,March ,,275,,,0.00,0.00,Insulation Weak
+2019,March ,11,284,22.4,10.8,709.60,363.64,Over Load
+2019,March ,0.08,361,0.36,0.34,0.18,0.09,Insulation Weak
+2019,March ,3,203,6.2,3.4,54.36,27.86,Water Penetration
+2019,March ,0.25,271,0.92,0.4,1.20,0.61,Water Penetration
+2019,March ,0.08,256,0.36,0.34,0.18,0.09,Insulation Weak
+2019,March ,0.25,323,0.92,0.4,1.20,0.61,Water Penetration
+2019,March ,,241,0.8,0.6,0.91,0.46,Bearing Jam
+2019,March ,2.2,379,4.6,2.4,29.92,15.34,Phase Missing 
+2019,March ,0.75,308,6,4,50.91,26.09,Over Load
+2019,March ,,210,,0.2,0.00,0.00,Over Load
+2020,January,0.9,308,0.61,0.2,0.53,0.27,Over Load
+2020,January,0.5,225,1.1,,1.71,0.88,Over Load
+2020,January,22,260,40.2,14,2285.43,1171.18,Bearing Damag
+2020,January,0.4,217,3,1.2,12.73,6.52,Over Load
+2020,January,0.4,307,2.9,1.3,11.89,6.09,Over Load
+2020,January,0.4,248,3,1.6,12.73,6.52,Over Load
+2020,January,0.25,319,0.4,0.02,0.23,0.12,Insulation Weak
+2020,January,0.9,293,0.61,0.2,0.53,0.27,Over Load
+2020,January,1.5,248,3.64,2.5,18.74,9.60,Water Penetrate
+2020,January,0.12,285,0.54,0.4,0.41,0.21,Over Load
+2020,January,3,251,6.2,3.6,54.36,27.86,Over Load
+2020,January,0.9,260,0.61,0.2,0.53,0.27,Over Load
+2020,January,3,221,6.2,3.5,54.36,27.86,Over Load
+2020,January,1.5,306,3.4,2,16.35,8.38,Over Load
+2020,January,0.4,382,1.1,0.4,1.71,0.88,Insulation Weak
+2020,January,1.1,340,2.13,,6.42,3.29,Over Load
+2020,January,0.75,200,4.5,3.5,28.64,14.68,Water Penetrate
+2020,January,0.75,308,2.05,1.4,5.94,3.05,Insulation Weak
+2020,January,3,328,6.2,3.6,54.36,27.86,Over Load
+2020,February ,18.5,331,34.5,10.5,1683.27,862.60,Phase Missing
+2020,February ,0.4,205,2.8,1.5,11.09,5.68,Over Load
+2020,February ,7.5,347,15,8,318.20,163.06,Over Load
+2020,February ,0.4,400,3,1.6,12.73,6.52,Over Load
+2020,February ,1.5,295,3.2,2,14.48,7.42,Over Load
+2020,February ,0.18,382,1,0.7,1.41,0.72,Over Load
+2020,February ,0.12,218,0.9,0.5,1.15,0.59,Over Load
+2020,February ,0.4,342,3,1.6,12.73,6.52,Over Load
+2020,February ,0.37,310,1.12,1,1.77,0.91,Over Load
+2020,February ,0.37,298,1.12,0.9,1.77,0.91,Over Load
+2020,February ,0.08,305,0.34,0.3,0.16,0.08,Insulation Weak
+2020,February ,1.5,248,14,10,277.19,142.05,Over Load
+2020,February ,1.1,397,2.8,1.8,11.09,5.68,Over Load
+2020,February ,3.7,326,7.6,,81.68,41.86,Bearing Damage
+2020,February ,1.1,224,2.8,1.3,11.09,5.68,Over Load
+2020,February ,11,396,18.5,,484.01,248.04,Over Load
+2020,March ,,239,,0.1,0.00,0.00,Water Penetrate
+2020,March ,1,239,1.5,0.8,3.18,1.63,Over Load
+2020,March ,1.5,291,3.2,2.4,14.48,7.42,Water Penetrate
+2020,March ,2.2,262,4.8,3.4,32.58,16.70,Bearing Damage
+2020,March ,0.6,360,0.5,,0.35,0.18,Insulation Weak
+2020,March ,0.9,273,0.61,,0.53,0.27,Over Load
+2020,March ,2.2,333,4.6,0.8,29.92,15.34,Over Load
+2020,March ,0.06,377,0.12,0.1,0.02,0.01,Insulation Weak
+2020,March ,0.4,290,0.64,0.3,0.58,0.30,Over Load
+2020,March ,2,399,4,1.7,22.63,11.60,Water Penetrate
+2020,March ,0.55,223,1.7,1.4,4.09,2.09,Over Load
+2020,March ,0.12,286,0.54,,0.41,0.21,Insulation Weak
+2020,March ,0.08,271,0.34,0.3,0.16,0.08,Insulation Weak
+2020,March ,0.08,253,0.34,0.3,0.16,0.08,Insulation Weak
+2020,March ,0.4,390,3,1.6,12.73,6.52,Over Load
+2020,April,75,298,129,30,23533.93,12060.09,Insulation Weak
+2020,April,3,253,6.2,3.6,54.36,27.86,Over Load
+2020,April,0.4,349,3,1.6,12.73,6.52,Over Load
+2020,April,0.12,315,0.9,0.5,1.15,0.59,Over Load
+2020,April,1.1,277,2.13,2,6.42,3.29,Insulation Weak
+2020,April,1.1,292,2.2,1.5,6.84,3.51,Over Load
+2020,April,1.5,271,3,1.15,12.73,6.52,Over Load
+2020,April,1.1,291,2.13,1.9,6.42,3.29,Insulation Weak
+2020,May,0.08,380,0.34,0.3,0.16,0.08,Insulation Weak
+2020,May,0.12,238,0.45,0.4,0.29,0.15,Insulation Weak
+2020,May,0.75,208,2.2,1.5,6.84,3.51,Insulation Weak
+2020,May,0.08,207,0.34,0.3,0.16,0.08,Insulation Weak
+2020,May,1.1,341,2.8,2,11.09,5.68,Over Load
+2020,May,1.1,373,2.13,1.9,6.42,3.29,Over Load
+2020,May,0.08,339,0.34,0.3,0.16,0.08,Insulation Weak
+2020,May,0.08,360,0.34,0.3,0.16,0.08,Insulation Weak
+2020,May,2,289,4.2,2.5,24.95,12.78,Water Penetration
+2020,May,1.1,338,2.13,2,6.42,3.29,Over Load
+2020,May,0.5,267,1.4,1.2,2.77,1.42,Over Load
+2020,May,0.08,295,0.34,0.3,0.16,0.08,Insulation Weak
+2020,May,1.1,285,2.8,1.9,11.09,5.68,Bearing Jam
+2020,May,1.1,261,2.8,1.5,11.09,5.68,Phase Miss
+2020,May,0.4,376,2.8,1,11.09,5.68,Over Load
+2020,May,1.5,358,12,7,203.65,104.36,Over Load
+2020,May,4,237,8.4,6,99.79,51.14,Phase Miss
+2020,June ,0.12,301,0.45,0.4,0.29,0.15,Insulation Weak
+2020,June ,0.75,388,2.4,0.7,8.15,4.17,Over Load
+2020,June ,0.05,259,0.1,0.1,0.01,0.01,Insulation Weak
+2020,June ,0.12,275,0.9,0.5,1.15,0.59,Over Load
+2020,June ,0.08,320,0.34,0.3,0.16,0.08,Insulation Weak
+2020,June ,0.08,343,0.34,0.3,0.16,0.08,Insulation Weak
+2020,June ,0.08,235,0.34,0.3,0.16,0.08,Insulation Weak
+2020,June ,1.1,313,2.8,1.8,11.09,5.68,Over Load
+2020,June ,16,308,30,9,1272.79,652.25,Over Load
+2020,June ,1.1,243,2.8,1.8,11.09,5.68,Water Penetration
+2020,June ,0.5,304,1.2,,2.04,1.04,Phase Miss
+2020,June ,5.5,243,8.6,2.5,104.60,53.60,Water Penetration
+2020,June ,0.12,383,0.8,,0.91,0.46,Insulation Weak
+2020,June ,0.08,315,0.34,0.3,0.16,0.08,Insulation Weak
+2020,June ,0.5,256,1.5,1,3.18,1.63,Over Load
+2020,June ,0.75,269,1.5,1.2,3.18,1.63,Over Load
+2020,July ,1.1,335,2.13,1.9,6.42,3.29,Over Load
+2020,July ,1.1,285,2.13,2,6.42,3.29,Over Load
+2020,July ,0.12,378,0.45,0.4,0.29,0.15,Insulation Weak
+2020,July ,0.06,222,0.12,0.1,0.02,0.01,Insulation Weak
+2020,July ,1.1,213,2.13,1.9,6.42,3.29,Over Load
+2020,July ,1.1,341,2.13,1.8,6.42,3.29,Over Load
+2020,July ,0.06,226,0.12,0.1,0.02,0.01,Insulation Weak
+2020,July ,0.9,361,0.61,0.2,0.53,0.27,Over Load
+2020,July ,N/A,279,N/A,0.3,#VALUE!,#VALUE!,Insulation Weak
+2020,July ,1.1,361,2.13,1.7,6.42,3.29,Over Load
+2020,July ,0.33,299,1.3,1,2.39,1.22,Over Load
+2020,July ,0.55,201,1.6,1.2,3.62,1.86,Over Load
+2020,July ,1.1,301,2.6,1.3,9.56,4.90,Over Load
+2020,July ,1.1,353,2.13,1.9,6.42,3.29,Over Load
+2020,July ,1.1,378,2.6,1.2,9.56,4.90,Over Load
+2020,July ,0.08,349,0.34,0.3,0.16,0.08,Insulation Weak
+2020,July ,0.5,374,2.8,1.2,11.09,5.68,Over Load
+2020,July ,0.15,211,1.5,0.5,3.18,1.63,Insulation Weak
+2020,July ,5.5,339,8.6,2.5,104.60,53.60,Water Penetration
+2020,July ,0.15,223,1.5,0.5,3.18,1.63,Insulation Weak
+2020,July ,1.1,292,2.8,2,11.09,5.68,Water Penetration
+2020,July ,0.12,305,0.45,0.4,0.29,0.15,Insulation Weak
+2020,July ,0.5,226,2.8,1.2,11.09,5.68,Over Load
+2020,July ,0.06,240,0.12,0.1,0.02,0.01,Insulation Weak
+2020,July ,0.12,288,0.9,0.5,1.15,0.59,Over Load
+2020,July ,0.06,342,0.12,0.1,0.02,0.01,Insulation Weak
+2020,July ,0.4,372,3,1.6,12.73,6.52,Over Load
+2020,August ,0.4,345,1.3,0.8,2.39,1.22,Phase Miss
+2020,August ,0.75,282,2.4,1.5,8.15,4.17,Phase Miss
+2020,August ,0.9,352,0.52,0.4,0.38,0.20,Phase Miss
+2020,August ,0.08,261,0.34,0.3,0.16,0.08,Insulation Weak
+2020,August ,0.1,395,,,0.00,0.00,Insulation Weak
+2020,August ,0.1,298,,,0.00,0.00,Insulation Weak
+2020,August ,0.08,206,0.34,0.3,0.16,0.08,Insulation Weak
+2020,August ,1.1,283,2.8,2,11.09,5.68,Water Penetration
+2020,August ,0.07,369,,,0.00,0.00,Insulation Weak
+2020,August ,0.75,270,1.76,1.5,4.38,2.24,Over Load
+2020,August ,0.4,261,2,1.3,5.66,2.90,Over Load
+2020,August ,0.06,317,0.12,0.1,0.02,0.01,Insulation Weak
+2020,August ,0.55,346,1.5,0.5,3.18,1.63,Over Load
+2020,August ,0.4,330,2.1,0.8,6.24,3.20,Over Load
+2020,August ,0.06,220,0.12,0.1,0.02,0.01,Insulation Weak
+2020,August ,0.12,384,0.45,0.4,0.29,0.15,Insulation Weak
+2020,September ,1.1,244,2.13,1.8,6.42,3.29,Over Load
+2020,September ,0.75,274,5.5,2,42.78,21.92,Water Penetration
+2020,September ,1.1,355,2.8,1.7,11.09,5.68,Over Load
+2020,September ,0.55,381,1.5,1,3.18,1.63,Over Load
+2020,September ,1.1,348,2.13,1.9,6.42,3.29,Over Load
+2020,September ,0.37,323,1.2,1,2.04,1.04,Over Load
+2020,September ,0.52,363,0.67,0.4,0.63,0.33,Insulation Weak
+2020,September ,0.75,378,6,2.5,50.91,26.09,Water Penetration
+2020,September ,0.12,282,0.9,0.4,1.15,0.59,Over Load
+2020,September ,0.5,295,0.62,0.4,0.54,0.28,Insulation Weak
+2020,September ,0.4,255,2.8,1.3,11.09,5.68,Over Load
+2020,September ,11,294,21.2,,635.60,325.72,Over Load
+2020,September ,0.12,259,0.5,0.4,0.35,0.18,Insulation Weak
+2020,September ,,393,2,1.8,5.66,2.90,Insulation Weak
+2020,September ,0.4,281,2.1,1.3,6.24,3.20,Over Load
+2020,September ,0.75,321,2.1,,6.24,3.20,Phase Miss
+2020,September ,0.55,375,4,,22.63,11.60,Over Load
+2020,September ,0.37,393,1,,1.41,0.72,Over Load
+2020,September ,0.9,400,0.52,0.3,0.38,0.20,Phase Miss
+2020,September ,0.12,259,0.45,0.4,0.29,0.15,Insulation Weak
+2020,October ,1.1,204,2.13,1.9,6.42,3.29,Bearing  Jamed
+2020,October ,0.4,285,2,1.3,5.66,2.90,Over Load
+2020,October ,0.08,391,0.34,0.3,0.16,0.08,Insulation Weak
+2020,October ,0.5,261,2.1,1.2,6.24,3.20,Over Load
+2020,October ,0.69,204,,,0.00,0.00,Insulation Weak
+2020,October ,0.4,332,1.3,0.8,2.39,1.22,Insulation Weak
+2020,October ,0.75,319,5,2,35.36,18.12,Water Penetration
+2020,October ,0.25,326,0.8,,0.91,0.46,Insulation Weak
+2020,October ,0.12,203,0.9,0.5,1.15,0.59,Insulation Weak
+2020,October ,0.08,256,0.34,0.3,0.16,0.08,Insulation Weak
+2020,October ,0.08,348,0.34,0.3,0.16,0.08,Insulation Weak
+2020,October ,1.1,243,2.6,1.3,9.56,4.90,Phase Miss
+2020,October ,1.1,312,2.6,1.3,9.56,4.90,Phase Miss
+2020,October ,1.1,400,2.6,1.3,9.56,4.90,Phase Miss
+2020,October ,1.1,299,2.6,1.3,9.56,4.90,Phase Miss
+2020,October ,1.1,322,2.6,1.3,9.56,4.90,Phase Miss
+2020,October ,,355,,,0.00,0.00,Insulation Weak
+2020,October ,1.1,318,2.6,1.3,9.56,4.90,Phase Miss
+2020,October ,0.37,267,1.11,0.9,1.74,0.89,Over Load
+2020,November ,3.7,210,7.6,,81.68,41.86,Bearing Damage
+2020,November ,1.5,381,3.4,2.2,16.35,8.38,Phase Miss
+2020,November ,1.5,343,3.2,,14.48,7.42,Water Penetration
+2020,November ,0.12,377,0.5,0.4,0.35,0.18,Insulation Weak
+2020,November ,0.75,260,7,5,69.30,35.51,Water Penetration
+2020,November ,0.12,297,0.45,0.4,0.29,0.15,Insulation Weak
+2020,November ,1.5,276,3.8,2.5,20.42,10.46,Insulation Weak
+2020,November ,1.1,322,2.75,1.3,10.69,5.48,Phase Miss
+2020,November ,0.55,227,1.47,1.1,3.06,1.57,Over Load
+2020,November ,0.37,320,1.11,0.9,1.74,0.89,Over Load
+2020,November ,0.08,363,0.34,0.3,0.16,0.08,Insulation Weak
+2020,November ,0.08,378,0.34,0.3,0.16,0.08,Insulation Weak
+2020,November ,11,374,21,,623.67,319.60,Bearing Damage
+2020,November ,1.5,245,3.8,2.5,20.42,10.46,Bearing Damage
+2020,November ,0.55,281,1.6,1.2,3.62,1.86,Over Load
+2020,November ,0.4,357,2.8,1.3,11.09,5.68,Over Load
+2020,November ,4,366,7,,69.30,35.51,Bearing Damage
+2020,November ,0.75,283,7,6,69.30,35.51,Over Load
+2020,December ,0.75,345,7,6,69.30,35.51,Over Load
+2020,December ,0.4,379,2,1.2,5.66,2.90,Over Load
+2020,December ,1.1,378,2.13,2,6.42,3.29,Bearing Jamed
+2020,December ,1.5,288,3.3,2.5,15.40,7.89,Phase Miss
+2020,December ,4,293,7.5,4,79.55,40.77,Bearing Damage
+2020,December ,30,344,58.2,22,4790.28,2454.81,Bearing Damage
+2020,December ,9.2,221,17.7,6.5,443.06,227.05,Bearing Damage
+2020,December ,0.12,252,0.45,0.4,0.29,0.15,Insulation Weak
+2020,December ,0.4,219,2,1.2,5.66,2.90,Over Load
+2020,December ,0.4,202,3,1.3,12.73,6.52,Over Load
+2020,December ,1.5,267,3.54,,17.72,9.08,Over Load
+2020,December ,,379,,0.3,0.00,0.00,Insulation Weak
+2020,December ,18.5,283,33,10,1540.08,789.22,Insulation Weak
+2020,December ,0.12,262,0.45,0.4,0.29,0.15,Insulation Weak
+2020,December ,0.75,296,2.1,1.7,6.24,3.20,Over Load
+2020,December ,1,324,1,0.5,1.41,0.72,Over Load
+2020,December ,3,216,6.2,,54.36,27.86,Bearing Jamed
+2020,December ,1.1,254,2.13,2,6.42,3.29,Over Load
+2020,December ,0.12,375,0.45,0.4,0.29,0.15,Insulation Weak
+2020,December ,0.75,314,2.4,0.7,8.15,4.17,Over Load
+2021,January,2.63,297,4.6,2,29.92,15.34,Water Penetration
+2021,January,0.55,207,1.55,,3.40,1.74,Over Load
+2021,January,1.1,373,2.75,1.3,10.69,5.48,Bearing Jamed
+2021,January,0.75,201,2.4,0.7,8.15,4.17,Over Load
+2021,January,0.75,237,2.4,1,8.15,4.17,Bearing Jamed
+2021,January,0.55,382,1.6,1.2,3.62,1.86,Over Load
+2021,January,0.6,289,0.39,0.34,0.22,0.11,Over Load
+2021,January,3,397,6.2,,54.36,27.86,Bearing Damage
+2021,January,0.08,374,0.34,0.3,0.16,0.08,Insulation Weak
+2021,January,0.75,378,2.4,0.7,8.15,4.17,Over Load
+2021,January,0.55,393,1.5,,3.18,1.63,Over Load
+2021,January,0.95,251,2,2,5.66,2.90,Over Load
+2021,January,4,306,8,,90.51,46.38,Bearing Damage
+2021,January,1.1,246,2.7,1.9,10.31,5.28,Phase Miss
+2021,January,0.4,353,2,1.2,5.66,2.90,Over Load
+2021,January,0.4,217,2,1.2,5.66,2.90,Over Load
+2021,January,0.95,263,2,2,5.66,2.90,Over Load
+2021,January,4,316,8.3,6,97.43,49.93,Water Penetration
+2021,January,0.5,260,1,,1.41,0.72,Bearing Jamed
+2021,February ,0.5,260,2.1,1.2,6.24,3.20,Over Load
+2021,February ,3,282,6.8,5,65.39,33.51,Bearing Jamed
+2021,February ,0.75,338,1.9,1.5,5.11,2.62,Over Load
+2021,February ,1.1,347,2,,5.66,2.90,Over Load
+2021,February ,0.5,342,0.8,0.4,0.91,0.46,Bush Jamed
+2021,February ,4,377,9.1,,117.11,60.01,Over Load
+2021,February ,0.5,256,1,0.5,1.41,0.72,Over Load
+2021,February ,1,329,1.6,0.7,3.62,1.86,Bush Jamed
+2021,February ,1,312,3,2,12.73,6.52,
+2021,February ,4,345,8.8,3.5,109.52,56.12,bearing Damage
+2021,February ,0.45,301,0.64,,0.58,0.30,Bearing Jamed
+2021,February ,0.55,251,1.6,1.2,3.62,1.86,Over Load
+2021,February ,0.25,254,0.5,,0.35,0.18,Insulation Weak
+2021,February ,1.1,256,2.4,1.5,8.15,4.17,Over Load
+2021,February ,1.1,290,2.13,1.8,6.42,3.29,Over Load
+2021,February ,1.1,228,2.13,1.8,6.42,3.29,bearing Damage
+2021,February ,0.4,358,3,1.6,12.73,6.52,Over Load
+2021,February ,1.5,294,3.2,2.6,14.48,7.42,bearing Damage
+2021,February ,0.1,243,4,,22.63,11.60,Insulation Weak
+2021,February ,0.4,235,2.9,1.7,11.89,6.09,Over Load
+2021,February ,0.37,376,1.11,0.9,1.74,0.89,Over Load
+2021,March ,1.5,393,3.2,1,14.48,7.42,Over Load
+2021,March ,2.2,214,4.5,3,28.64,14.68,Bearing Jamed
+2021,March ,1.1,299,2.4,1.5,8.15,4.17,Phase Miss
+2021,March ,3,367,6.8,,65.39,33.51,Insulation Weak
+2021,March ,0.65,397,1.2,0.2,2.04,1.04,Insulation Weak
+2021,March ,0.12,211,0.5,0.4,0.35,0.18,Insulation Weak
+2021,March ,1.5,313,3,1.6,12.73,6.52,Phase Miss
+2021,March ,0.65,370,1.2,0.2,2.04,1.04,Insulation Weak
+2021,March ,0.33,283,1.7,1.2,4.09,2.09,Over Load
+2021,March ,0.45,339,1,0.2,1.41,0.72,Insulation Weak
+2021,March ,0.5,268,1.2,0.65,2.04,1.04,Insulation Weak
+2021,March ,0.75,253,2,0.9,5.66,2.90,Phase Miss
+2021,March ,0.5,332,1,,1.41,0.72,Bearing Jamed
+2021,March ,0.08,276,0.34,0.3,0.16,0.08,Insulation Weak
+2021,March ,1.1,231,2.7,1.9,10.31,5.28,Phase Miss
+2021,March ,0.4,295,2.9,1.2,11.89,6.09,Over Load
+2021,March ,0.55,277,1.5,1,3.18,1.63,Water Penetration
+2021,April,0.4,228,2.8,1.2,11.09,5.68,Over Load
+2021,April,0.25,299,1,,1.41,0.72,Bearing Jamed
+2021,April,0.12,332,0.5,,0.35,0.18,Bearing Jamed
+2021,April,0.12,236,0.5,,0.35,0.18,Insulation Weak
+2021,April,18.5,321,33,,1540.08,789.22,Insulation Weak
+2021,April,1.1,352,2.6,1.3,9.56,4.90,Phase Miss
+2021,April,0.4,379,2.8,1.2,11.09,5.68,Bearing Jamed
+2021,April,0.45,315,1,0.2,1.41,0.72,Insulation Weak
+2021,April,0.12,372,0.5,0.4,0.35,0.18,Insulation Weak
+2021,April,0.5,333,0.75,0.6,0.80,0.41,Over Load
+2021,April,0.25,301,1,,1.41,0.72,Water Penetration
+2021,April,0.5,209,0.75,0.6,0.80,0.41,Over Load
+2021,April,0.5,318,1.5,1,3.18,1.63,Insulation Weak
+2021,April,0.19,375,0.75,0.25,0.80,0.41,Over Load
+2021,April,0.12,292,0.9,0.5,1.15,0.59,Over Load
+2021,May,0.4,236,2,1.2,5.66,2.90,Over Load (Clutch Fault)
+2021,May,0.4,355,2.9,1.4,11.89,6.09,Over Load (Clutch Fault)
+2021,May,3,281,6.2,3.5,54.36,27.86,Insulation Weak
+2021,May,0.75,289,4.9,2.5,33.96,17.40,Bearing Damage
+2021,May,0.4,275,3,1.4,12.73,6.52,Bearing Damage 
+2021,May,0.4,349,2,1.2,5.66,2.90,Bearing Jamad
+2021,May,0.12,243,0.5,0.4,0.35,0.18,Insulation Weak
+2021,May,0.12,313,0.5,0.4,0.35,0.18,Insulation Weak
+2021,May,0.4,310,3,1.4,12.73,6.52,Bearing Jamad
+2021,May,0.55,378,4,,22.63,11.60,Over Load
+2021,May,0.55,214,1.68,,3.99,2.05,Over Load
+2021,May,0.08,339,0.34,0.3,0.16,0.08,Insulation Weak
+2021,May,2.2,249,4.9,,33.96,17.40,Phase Miss
+2021,June ,0.5,305,2.1,,6.24,3.20,Over Load
+2021,June ,1.1,309,2.8,1.8,11.09,5.68,bearing Damage
+2021,June ,0.08,276,0.34,0.3,0.16,0.08,Insulation Weak
+2021,June ,0.08,292,0.34,0.3,0.16,0.08,Insulation Weak
+2021,June ,0.08,343,0.34,0.3,0.16,0.08,Insulation Weak
+2021,June ,0.08,325,0.34,0.3,0.16,0.08,Insulation Weak
+2021,June ,0.08,229,0.34,0.3,0.16,0.08,Insulation Weak
+2021,June ,0.08,217,0.34,0.3,0.16,0.08,Insulation Weak
+2021,June ,1.2,389,8,,90.51,46.38,Insulation Weak
+2021,June ,3,204,6.2,3.5,54.36,27.86,Over Load
+2021,June ,0.12,239,0.5,0.4,0.35,0.18,Insulation Weak
+2021,June ,0.15,313,0.9,0.8,1.15,0.59,Bearing Jamed
+2021,June ,1.1,251,2.13,1.8,6.42,3.29,Insulation Weak
+2021,June ,0.12,331,0.5,0.4,0.35,0.18,Insulation Weak
+2021,June ,0.08,206,0.34,0.3,0.16,0.08,Insulation Weak
+2021,June ,2.8,295,6,2.8,50.91,26.09,Over Load
+2021,June ,1.5,242,10,,141.42,72.47,Over Load
+2021,June ,1.1,312,2.6,1.3,9.56,4.90,Phase Miss
+2021,July ,0.4,246,3,1.4,12.73,6.52,Bearing Jamed
+2021,July,0.4,327,3,1.6,12.73,6.52,Over Load
+2021,July,0.12,349,0.9,0.5,1.15,0.59,Over Load
+2021,July,4.4,341,9.2,6,119.70,61.34,Phase Miss
+2021,July,0.55,400,4,,22.63,11.60,Over Load
+2021,July,1.5,222,10,,141.42,72.47,Bearing Damage
+2021,July,0.12,290,0.5,0.4,0.35,0.18,Insulation Weak
+2021,July,0.4,389,3,1.5,12.73,6.52,Bearing Jamed
+2021,July,0.4,203,3,1.3,12.73,6.52,Over Load
+2021,July,0.4,217,3,1.3,12.73,6.52,Over Load
+2021,July,0.37,271,1.2,0.3,2.04,1.04,Over Load
+2021,July,0.65,237,1.2,,2.04,1.04,Insulation Weak
+2021,July,0.45,238,0.5,0.2,0.35,0.18,Insulation Weak
+2021,July,1.5,308,3.3,2.5,15.40,7.89,Bearing Damage
+2021,July,1.1,268,2.75,1.3,10.69,5.48,Phase Miss
+2021,July,0.45,387,1,0.2,1.41,0.72,Insulation Weak
+2021,August,0.55,235,0.8,0.4,0.91,0.46,Insulation Weak
+2021,August,1.1,342,2.8,,11.09,5.68,Water Penetration
+2021,August,0.4,217,2,1.2,5.66,2.90,Over Load (Hade Jamed)
+2021,August,0.4,359,3,1.4,12.73,6.52,Over Load  (Clutch)
+2021,August,0.12,365,1,0.5,1.41,0.72,Bearing Jamed
+2021,August,1.5,211,3.4,,16.35,8.38,Over Load  (Gear Jamed)
+2021,August,3,318,6.8,5,65.39,33.51,Bearing Jamed
+2021,August,0.4,346,3,1.3,12.73,6.52,Over Load  (Clutch)
+2021,August,0.37,229,1.11,0.9,1.74,0.89,Over Load
+2021,August,1.1,364,2.8,2,11.09,5.68,Phase Miss
+2021,August,0.4,234,2,1.2,5.66,2.90,Bearing Jamed
+2021,August,0.4,360,3,1.5,12.73,6.52,Over Load  
+2021,August,0.37,215,1.2,1,2.04,1.04,Bearing Damage
+2021,August,0.08,361,0.5,,0.35,0.18,Insulation Weak
+2021,August,0.12,278,0.5,0.4,0.35,0.18,Insulation Weak
+2021,August,0.75,352,2.1,,6.24,3.20,Over Load  
+2021,August,0.2,355,,,0.00,0.00,Insulation Weak
+2021,August,0.08,292,0.34,0.3,0.16,0.08,Insulation Weak
+2021,August,0.08,280,0.34,0.3,0.16,0.08,Insulation Weak
+2021,August,0.5,394,2.1,1.2,6.24,3.20,Over Load (Magnet Damage)
+2021,Septeember ,0.45,274,1,0.2,1.41,0.72,Insulation Weak
+2021,Septeember ,0.55,226,4,,22.63,11.60,Over Load
+2021,Septeember ,0.55,279,1.7,,4.09,2.09,Bearing Jamed
+2021,Septeember ,1.1,351,2.8,2,11.09,5.68,Bearing Jamed
+2021,Septeember ,25,220,,,0.00,0.00,Water Penetration
+2021,Septeember ,0.18,227,0.64,0.45,0.58,0.30,Over Load
+2021,Septeember ,0.12,365,0.9,0.5,1.15,0.59,Over Load
+2021,Septeember ,0.65,229,1.2,,2.04,1.04,Insulation Weak
+2021,Septeember ,0.65,371,1.2,,2.04,1.04,Insulation Weak
+2021,Septeember ,0.4,294,3,1.5,12.73,6.52,Bearing Jamad
+2021,Septeember ,1.1,377,2.8,,11.09,5.68,Over Load
+2021,Septeember ,0.45,391,1,0.2,1.41,0.72,Insulation Weak
+2021,Septeember ,0.75,268,5,4,35.36,18.12,Over Load
+2021,Septeember ,0.75,279,6,3.8,50.91,26.09,Over Load
+2021,Septeember ,0.08,220,0.34,0.3,0.16,0.08,Insulation Weak
+2021,Septeember ,4,332,8.2,3,95.09,48.73,Water Penetration
+2021,Septeember ,0.5,254,1.3,0.5,2.39,1.22,Bearing Jamad
+2021,Septeember ,1.1,370,2.13,1.8,6.42,3.29,Over Load
+2021,Septeember ,1.1,345,2.9,2,11.89,6.09,Bearing Damage
+2021,October ,1.1,250,2.13,1.9,6.42,3.29,Over Load
+2021,October ,1.5,341,3.8,2.6,20.42,10.46,Bearing Damage
+2021,October ,1.1,318,3.2,1.5,14.48,7.42,Insulation Weak
+2021,October ,0.45,335,0.55,0.4,0.43,0.22,Bearing Jamed
+2021,October ,22,288,40.6,16,2331.13,1194.60,Over Load   (Gear Problem)
+2021,October ,0.33,326,1.6,0.6,3.62,1.86,Over Load 
+2021,October ,5.2,398,11.3,4.2,180.58,92.54,Bearing Jamed
+2021,October ,0.4,345,3,1.3,12.73,6.52,Bearing Jamed
+2021,October ,2.2,208,4.6,2.5,29.92,15.34,Water Penetration
+2021,October ,0.08,260,0.36,0.5,0.18,0.09,Insulation Weak
+2021,October ,2.2,325,4.9,2.6,33.96,17.40,Insulation Weak
+2021,October ,0.12,209,0.5,0.4,0.35,0.18,Insulation Weak
+2021,October ,5.5,257,11.4,5.5,183.79,94.18,Phase Miss
+2021,October ,0.4,310,2,1.2,5.66,2.90,Over Load 
+2021,October ,0.4,309,2.8,2,11.09,5.68,Over Load 
+2021,October ,2.2,210,5,1.7,35.36,18.12,Over Load 
+2021,November ,1.1,382,2.8,1.9,11.09,5.68,Bearing Damag
+2021,November ,0.25,239,1.56,1.2,3.44,1.76,Water Penetration
+2021,November ,1.1,253,2.7,1.7,10.31,5.28,Over Load
+2021,November ,0.28,218,0.5,,0.35,0.18,Bush Jamed
+2021,November ,0.33,277,0.6,,0.51,0.26,Insulation Weak
+2021,November ,0.08,291,0.34,0.3,0.16,0.08,Insulation Weak
+2021,November ,2.2,233,4.2,,24.95,12.78,Water Penetration
+2021,November ,0.12,242,0.5,0.4,0.35,0.18,Insulation Weak
+2021,November ,1.1,244,2.13,1.9,6.42,3.29,Bearing Jamed
+2021,December ,0.75,364,2.2,,6.84,3.51,Phase Miss
+2021,December ,0.035,301,1,,1.41,0.72,Over Load
+2021,December ,22,394,40.6,18,2331.13,1194.60,Over Load 
+2021,December ,1.8,285,3.6,1.6,18.33,9.39,Water Penetration
+2021,December ,0.4,247,2.9,1.3,11.89,6.09,Over Load 
+2021,December ,1.1,215,2.7,1.8,10.31,5.28,Over Load 
+2021,December ,0.75,206,1.5,0.5,3.18,1.63,Over Load 
+2021,December ,0.35,395,1,,1.41,0.72,Over Load 
+2021,December ,1.1,311,2.13,1.8,6.42,3.29,Over Load
+2021,December ,0.4,227,3,1.5,12.73,6.52,Bearing Jamed
+2021,December ,0.4,270,2.8,1.4,11.09,5.68,Bearing Jamed
+2022,January,6.3,266,12.8,6.4,231.70,118.74,Bearing Damage
+2022,January,2.2,233,4.2,3,24.95,12.78,Water Penetration
+2022,January,0.5,289,1.2,0.3,2.04,1.04,Water Penetration
+2022,January,0.12,255,0.5,0.4,0.35,0.18,Insulation Weak
+2022,January,1.5,355,3.2,1.7,14.48,7.42,Water Penetration
+2022,January,0.055,259,0.32,0.3,0.14,0.07,Over Load
+2022,January,0.5,346,1.2,0.9,2.04,1.04,Bearing Jamed
+2022,January,0.55,373,1.53,1.2,3.31,1.70,Bearing Jamed
+2022,January,5.5,370,10.8,5.5,164.95,84.53,Phase Miss
+2022,January,0.55,393,1.5,1.2,3.18,1.63,Over Load
+2022,January,2.2,378,4.6,2.5,29.92,15.34,Over Load
+2022,February ,0.23,398,2.8,1.5,11.09,5.68,Over Load
+2022,February ,0.55,239,1.7,0.9,4.09,2.09,
+2022,February ,1.5,257,10,2,141.42,72.47,Bearing Damage
+2022,February ,22,361,43,18,2614.88,1340.01,Over Load
+2022,February ,0.75,348,4,1.2,22.63,11.60,Over Load
+2022,February ,2.2,203,5,4,35.36,18.12,Bearing Damage
+2022,February ,2.2,204,4.48,2.6,28.38,14.55,Water Penetration
+2022,February ,0.12,282,0.5,,0.35,0.18,Insulation Weak
+2022,February ,0.33,298,1.6,0.5,3.62,1.86,Over Load 
+2022,February ,0.4,287,3,1.3,12.73,6.52,Over Load 
+2022,February ,1.1,222,2.13,1.9,6.42,3.29,Insulation Weak
+2022,March,0.37,318,1.1,1,1.71,0.88,Over Load
+2022,March,0.33,214,1.6,0.5,3.62,1.86,Over Load 
+2022,March,,205,,0.12,0.00,0.00,Water Penetration
+2022,March,,388,,,0.00,0.00,Insulation Weak
+2022,March,0.4,308,2.9,1.4,11.89,6.09,Over Load 
+2022,March,0.4,345,3,1.5,12.73,6.52,Over Load 
+2022,March,0.61,223,0.5,0.25,0.35,0.18,Insulation Weak
+2022,March,1.5,237,3.8,2.6,20.42,10.46,Bearing Jamed
+2022,March,22,232,40.6,17,2331.13,1194.60,Over Load 
+2022,March,2.2,281,5.2,2.5,38.24,19.60,Water Penetration
+2022,March,0.4,391,2.8,0.8,11.09,5.68,Bearing Jamed
+2022,March,0.4,375,2.8,0.8,11.09,5.68,Bearing Jamed
+2022,March,0.45,365,0.5,0.2,0.35,0.18,Insulation Weak
+2022,March,0.45,260,0.5,0.2,0.35,0.18,Insulation Weak
+2022,March,1.1,204,2.8,2,11.09,5.68,Bearing Damage
+2022,April,0.55,256,0.5,0.2,0.35,0.18,Insulation Weak
+2022,April,1.8,387,3,2,12.73,6.52,Bearing Jamed
+2022,April,0.032,374,0.5,,0.35,0.18,Insulation Weak
+2022,April,0.12,341,0.5,0.4,0.35,0.18,Insulation Weak
+2022,April,0.37,262,1.2,1,2.04,1.04,Over Load
+2022,April,2.2,383,4.3,,26.15,13.40,Phase Miss
+2022,April,0.75,303,4,2,22.63,11.60,Over Load
+2022,April,3,213,6.2,3.5,54.36,27.86,Over Load
+2022,April,0.32,211,0.5,,0.35,0.18,Insulation Weak
+2022,April,0.33,304,1.6,0.5,3.62,1.86,Over Load 
+2022,April,1.1,206,2.8,2,11.09,5.68,Bearing Jamed
+2022,April,2.2,257,4.9,3.5,33.96,17.40,Over Load 
+2022,April,0.12,307,0.5,0.4,0.35,0.18,Insulation Weak
+2022,May,0.12,339,0.5,0.6,0.35,0.18,Insulation Weak
+2022,May,1.1,239,2.6,2,9.56,4.90,Bearing Jamed
+2022,May,0.125,228,0.5,0.4,0.35,0.18,Insulation Weak
+2022,May,0.12,333,0.5,0.4,0.35,0.18,Insulation Weak
+2022,May,1.5,294,3.65,2,18.84,9.66,Bearing Jamed
+2022,May,0.18,277,0.7,0.5,0.69,0.36,Over Load
+2022,May,0.25,270,1.73,0.6,4.23,2.17,Over Load
+2022,May,0.45,336,0.5,0.2,0.35,0.18,Insulation Weak
+2022,May,1200,225,6.2,,54.36,27.86,Phase Miss
+2022,June ,1.5,394,3.4,1.7,16.35,8.38,Water Penetration
+2022,June ,1.1,364,2.4,1.2,8.15,4.17,Water Penetration
+2022,June ,0.75,286,2.05,1.5,5.94,3.05,Over Load
+2022,June ,0.75,330,5.4,1.7,41.24,21.13,Water Penetration
+2022,June ,0.37,328,1.05,0.7,1.56,0.80,Over Load
+2022,June ,0.1,318,2,,5.66,2.90,Over Load
+2022,June ,0.25,229,4,,22.63,11.60,Over Load
+2022,June ,0.8,252,1,,1.41,0.72,Insulation Weak
+2022,June ,0.65,248,0.5,0.4,0.35,0.18,Insulation Weak
+2022,June ,0.65,317,0.5,0.4,0.35,0.18,Insulation Weak
+2022,June ,0.7,286,0.5,0.4,0.35,0.18,Insulation Weak
+2022,June ,0.6,286,0.5,0.4,0.35,0.18,Insulation Weak
+2022,June ,1.1,221,2.8,2,11.09,5.68,Over Load
+2022,July,0.8,216,2,,5.66,2.90,Over Load
+2022,July,0.6,215,0.5,0.4,0.35,0.18,Insulation Weak
+2022,July,0.4,302,2,1.2,5.66,2.90,Over Load 
+2022,July,1200,359,6.2,,54.36,27.86,Phase Miss
+2022,July,7.5,249,13.8,5,269.32,138.02,Phase Miss
+2022,July,7.5,230,14.3,5,289.19,148.20,Phase Miss
+2022,July,0.5,264,1.5,1,3.18,1.63,Over Load 
+2022,July,0.147,221,1.1,0.6,1.71,0.88,Over Load 
+2022,July,1.5,375,3.22,2,14.66,7.51,Over Load 
+2022,July,1.5,399,3.22,2,14.66,7.51,Phase Miss
+2022,July,2.2,219,4.8,1,32.58,16.70,Water Penetration
+2022,July,1.5,373,3.2,2,14.48,7.42,Insulation Weak
+2022,August,7.5,209,14.3,10,289.19,148.20,Water Penetration
+2022,August,11,337,22.3,,703.27,360.40,Over Load
+2022,August,40,276,1,,1.41,0.72,Bush Jamed
+2022,August,0.55,325,1.5,,3.18,1.63,Over Load
+2022,August,0.65,225,0.5,0.4,0.35,0.18,Insulation Weak
+2022,August,2.2,337,4.2,2,24.95,12.78,Water Penetration
+2022,August,1.1,215,2.8,2,11.09,5.68,Phase Miss
+2022,August,0.5,264,1.2,,2.04,1.04,Bearing Jamed
+2022,August,1.1,201,2.13,,6.42,3.29,Over Load
+2022,August,0.4,307,2.9,1.4,11.89,6.09,Over Load
+2022,August,11,248,22.3,12,703.27,360.40,Phase Miss
+2022,August,0.18,295,,0.2,0.00,0.00,Insulation Weak
+2022,August,0.12,337,0.5,0.4,0.35,0.18,Insulation Weak
+2022,August,2.2,329,5,2.8,35.36,18.12,Over Load
+2022,Septeember ,5.5,375,10.5,,155.92,79.90,Over Load 
+2022,septmeber ,0.6,229,0.5,0.4,0.35,0.18,Insulation Weak
+2022,septmeber ,1.1,280,2.8,1.8,11.09,5.68,Phase Miss
+2022,septmeber ,0.4,335,1.03,0.8,1.50,0.77,Over Load
+2022,septmeber ,5.5,272,10.9,5,168.02,86.10,Over Load
+2022,septmeber ,0.75,319,5.5,2.8,42.78,21.92,Over Load
+2022,septmeber ,0.08,369,0.34,0.3,0.16,0.08,Insulation Weak
+2022,septmeber ,0.12,342,0.54,0.4,0.41,0.21,Over Load
+2022,septmeber ,0.18,240,0.63,0.4,0.56,0.29,Over Load
+2022,septmeber ,0.18,328,0.63,0.4,0.56,0.29,Phase Miss
+2022,septmeber ,1.1,366,3,1.9,12.73,6.52,Over Load
+2022,septmeber ,0.65,293,0.5,0.4,0.35,0.18,Insulation Weak
+2022,septmeber ,0.55,366,1.6,1.2,3.62,1.86,Over Load
+2022,septmeber ,0.04,360,0.24,0.2,0.08,0.04,Over Load
+2022,septmeber ,1.1,347,2.13,1.7,6.42,3.29,Insulation Weak
+2022,septmeber ,0.1,399,0.35,,0.17,0.09,Over Load
